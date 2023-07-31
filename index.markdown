@@ -2,6 +2,8 @@
 
 This repo stores a list of introductory tasks to be completed by students contributing the the [BrickMMO](http://brickmmo.com/) project.
 
+For due dates please login to [BrickMMO Flow](https://flow.brickmmo.com/).
+
 ## Phase One
 
 These tasks are to be completed in the following order:
@@ -13,7 +15,13 @@ These tasks are to be completed in the following order:
 
 ## Phase Two
 
-For due dates please login to [BrickMMO Flow](https://flow.brickmmo.com/).
+These tasks are to be completed in the following order:
+
+- [Accounts](accounts.markdown)
+
+## Programming Guidelines
+
+All [BrickMMO](https://brickmmo.com/) related projects follow [_reademe](https://readme.codeadam.ca/), [tidy](https://tidy.codeadam.ca/), and [eplus](https://eplus.codeadam.ca/) guidelines.
 
 ---
 
