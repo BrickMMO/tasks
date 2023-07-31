@@ -1,4 +1,4 @@
-# TAsks
+# Tasks
 
 A list of introductory tasks to be completed by students contributing the the [BrickMMO](http://brickmmo.com/) project.
 
