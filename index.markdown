@@ -14,3 +14,9 @@ These tasks are to be completed in the following order:
 ## Phase Two
 
 For due dates please login to [BrickMMO Flow](https://flow.brickmmo.com/).
+
+---
+
+<a href="https://brickmmo.com">
+<img src="https://brickmmo.com/images/brickmmo-logo-horizontal.jpg" width="100">
+</a>
