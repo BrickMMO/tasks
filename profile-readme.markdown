@@ -1,3 +1,3 @@
-# Main Title
+# Profile README.md
 
-Description of the README.md Profile task.
+Description of the README.md Profile task:
