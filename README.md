@@ -3,7 +3,7 @@
 A list of introductory tasks to be completed by students contributing the the [BrickMMO](http://brickmmo.com/) project.
 
 > This repo is available to view at  
-> [https://tasks.brickmmo.ca](https://tasks.brickmmo.ca)
+> [https://tasks.brickmmo.com](https://tasks.brickmmo.com)
 
 ---
 
