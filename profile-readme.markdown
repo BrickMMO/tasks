@@ -2,7 +2,7 @@
 
 Description of the README.md Profile task:
 
-<a href="/">&#10132; Back to Task List</a>
+[&#10132; Back to Task List](/)
 
 ---
 
