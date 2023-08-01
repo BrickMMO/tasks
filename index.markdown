@@ -21,7 +21,7 @@ These tasks are to be completed in the following order:
 
 ## Programming Guidelines
 
-All [BrickMMO](https://brickmmo.com/) related projects follow [_reademe](https://readme.codeadam.ca/), [tidy](https://tidy.codeadam.ca/), and [eplus](https://eplus.codeadam.ca/) guidelines.
+All [BrickMMO](https://brickmmo.com/) related projects follow [_reademe](https://readme.codeadam.ca/), [tidy](https://tidy.brickmmo.com/), and [eplus](https://eplus.codeadam.ca/) guidelines.
 
 ---
 
