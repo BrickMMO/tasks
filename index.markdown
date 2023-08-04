@@ -8,10 +8,16 @@ For due dates please login to [BrickMMO Flow](https://flow.brickmmo.com/).
 
 These tasks are to be completed in the following order:
 
-- [Accounts](accounts.markdown)
-- [Profile README.md](profile-readme.markdown)
-- [Repos for Class Files](repos-class-files.markdown)
-- [Contributions](contributions.markdown)
+1. [Academi Integrity](academic-integrity.markdown)
+2. [Accounts](accounts.markdown)
+3. [README.md](reademe.markdown)
+4. [Profile README.md](profile-readme.markdown)
+5. [Repos for Class](repos-for-class.markdown)
+6. [Contributions](contributions.markdown)
+7. [Set Hackathon](set-hackathon.markdown)
+8. [Document Conversion](document-conversion.markdown)
+
+
 
 ## Phase Two
 
