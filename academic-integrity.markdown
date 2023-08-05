@@ -2,6 +2,8 @@
 
 Writing code for academic purposes is similar to all academic writing in that students are required to follow similar guidelines.
 
+![Copying Code Meme](images/meme-copying.png)
+
 However, identifying what is and what isn't academic misconduct when writing code, assisting fellow students, searching for code samples online, or utilizing online code samples can be difficult. This is because academic guidelines related to writing code will vary in each course and occasionally in each assignment. Additionally, the expectations of a programmer during academia are dramatically different than the industry.
 
 This course will outline those guidelines and require students to complete an online assessment to ensure the guidelines are understood.
