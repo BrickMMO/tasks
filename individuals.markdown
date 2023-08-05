@@ -97,7 +97,6 @@ When using Git and GitHub as an individual, you will usually follow these steps:
 
 When you are working as an individual, you will not need to create any additional branches. You can simply add and commit all your changes directly to the `main` branch like in the examples above.
 
-> **Note**  
 > You can get detailed instructions of this process on my [github-demo-branching](https://github.com/codeadamca/github-demo-branching) repo. 
 
 ## Recommendations
