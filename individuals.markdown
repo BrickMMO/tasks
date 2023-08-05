@@ -16,7 +16,7 @@ Git and GitHub can be hard at first. And if you have never used the Command Line
 
 ![Using the Terminal Meme](images/meme-terminal.png)
 
-## Git
+## Git CLI
 
 In this class we will use Git through the command line. Start by following the [Getting Started - Git Installation](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git). Once you're done run the following command in your Terminal (Mac/Linux) or Git Bash (Windows) to confirm it has been installed:
 
@@ -25,6 +25,8 @@ git --version
 ```
 
 ![Git Version](images/terminal-git-version.png)
+
+## GitHub CLI
 
 We will also use the [GitHub Command Line Interface (CLI) Tool](https://cli.github.com/). Please download and install the proper version. Once you're done, run the following command in your Terminal (Mac/Linux) or Git Bash (Windows) to confirm it has been installed:
 
@@ -69,6 +71,10 @@ When using Git and GitHub as an individual, you will usually follow these steps:
     ```sh
     git clone https://github.com/BrickMMO/tasks.git
     ```
+    
+    You can find the URL of a GitHub repo here:
+
+    ![GitHub Repo URL](images/screenshot-repo-url.png)
 
 3. Make changes using your code editor.
 4. Add current changes to the main copy:
