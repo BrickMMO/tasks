@@ -95,7 +95,8 @@ When using Git and GitHub as an individual, you will usually follow these steps:
     git push origin main
     ```
 
-You can get detailed instructions of this process on my [github-demo-branching](https://github.com/codeadamca/github-demo-branching) repo. 
+> [!NOTE]  
+> You can get detailed instructions of this process on my [github-demo-branching](https://github.com/codeadamca/github-demo-branching) repo. 
 
 When you are working as an individual, you will not need to create any additional branches. You can simply add and commit all your changes directly to the `main` branch like in the examples above.
 
