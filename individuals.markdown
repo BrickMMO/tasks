@@ -53,7 +53,7 @@ Once you have the GitHub CLI installed, use it to login to your GitHub account:
 
     ![Screenshot Authorization Code](images/screenshot-auth-code.png)
 
-8. Confirm you have loggedin by checking the local configuration settings:
+8. Confirm you are logged in by checking the local configuration settings:
 
     ```sh
     git config -l
@@ -101,21 +101,21 @@ When you are working as an individual, you will not need to create any additiona
 
 ## Recommendations
 
-Use Git and GitHub as much as possible. It will force you to practice the skill, you will alwyas have a backup of all your work, and your GitHub contributions chart will start turning green!
+Use Git and GitHub as much as possible! It will force you to practice the skill, you will have a backup of all your work, and your GitHub contributions chart will start turning green!
 
 I would recommend the following:
 
 1. Create a GitHub repo for each class. Put all your class files in that repo. Push the files from class to your GitHub account at the end of each class (or even more often). 
-2. Create a GitHub repo for each assignment. You can use these repos to hand assignments in. And you can also use a GitHub repo to host a project (we'll cover that alter).
-3. If you're learning a new skill, create a repo and store the code there in case you need it for later. 
+2. Create a GitHub repo for each assignment. You can use these repos to hand assignments in. And you can also use a GitHub repo to host a project (we cover that later in the [Deployment Task](/deployment)).
+3. If you're learning a new skill, create a repo and store the code there in case you need it for later.
 
 ## Consistancy
 
 Be consistent! As a developer you should be obsessed with consistency!
 
 - Use consistent naming conventions.
-- Give your files nice clean names like `logo-github.png`, not `IMG-20170407-WA0007_resized.jpg`, `IMG-20170407-WA0007.jpg`, or `Copy of IMG-20170407-WA0007.jpg`.
-- Organize your file into classes, and weeks, and topics:
+- Give your files nice clean names like `logo-github.png`. Not `IMG-20170407-WA0007_resized.jpg`, `IMG-20170407-WA0007.jpg`, or `Copy of IMG-20170407-WA0007.jpg`.
+- Organize your files into classes, and weeks, and topics:
 
     ```
     http5111
@@ -132,7 +132,7 @@ Be consistent! As a developer you should be obsessed with consistency!
             │   logo.jpg
     ```
 
-I have written a set of rules for myself (and all BrickMMO development) to follow when working with my GitHub repos and README.md files. These rules are called [_readme](https://readme.codeadam.ca/). You can use these as a starting point.
+I have written a set of rules for myself (and all BrickMMO development) to follow when working with GitHub repos and README.md files. These rules are called [_readme](https://readme.codeadam.ca/). You can use these as a starting point.
 
 ## Steps
 
@@ -140,7 +140,7 @@ To complete this task, follow these steps:
 
 1. Create a repo for each of your classes.
 2. Clone each of those repos to your compauter.
-3. Put your class files into those repos. 
+3. Put your class files into those repos.
 4. Add, commit, and push those files to your GitHub account.
 
 ## Submitting this Task
