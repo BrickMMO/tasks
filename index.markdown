@@ -8,7 +8,7 @@ For due dates please login to [BrickMMO Flow](https://flow.brickmmo.com/).
 
 These tasks are to be completed in the following order:
 
-1. [Academi Integrity](academic-integrity.markdown)
+1. [Academic Integrity]()
 2. [Accounts](accounts.markdown)
 3. [README.md](reademe.markdown)
 4. [Profile README.md](profile-readme.markdown)
@@ -16,7 +16,9 @@ These tasks are to be completed in the following order:
 6. [Contributions](contributions.markdown)
 7. [Set Hackathon](set-hackathon.markdown)
 8. [Document Conversion](document-conversion.markdown)
-
+9. [Deployment](deployemt.markdown)
+10. [System Hackathon](system-hackathon.markdown)
+11. [Debugging](debugging.markdown)
 
 
 ## Phase Two
