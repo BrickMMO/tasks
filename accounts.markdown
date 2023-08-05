@@ -1,6 +1,6 @@
 ## Accounts
 
-You will need many different accounts and tools during the Web Development program. In this course you will need a [GitHub](https://github.com/), [Discord](https://discord.com/), and [BrickMMO Flow](https://flow.brickmmo.com/) accounts. 
+You will need many different accounts and tools during the Web Development program. In this course you will need a [GitHub](https://github.com/), [Discord](https://discord.com/), and [BrickMMO Flow](https://flow.brickmmo.com/) account. 
 
 ### GutHub
 
@@ -12,19 +12,19 @@ You will need many different accounts and tools during the Web Development progr
 
 ![Discord](images/logo-discord.png)
 
-[Discord](https://discord.com/) is an instant messaging and VoIP social platform. Users have the ability to communicate with voice calls, video calls, text messaging, media and files in private chats or as part of communities called "servers". ~ Widipedia
+[Discord](https://discord.com/) is an instant messaging social platform. Users have the ability to communicate with voice calls, video calls, text messaging, media, and files in communities called "servers". ~ Widipedia
 
 ### BrickMMO Flow
 
-[BrickMMO Flow](https://flow.brickmmo.com/) is a basic project management platform used to track your BrickMMO tasks. 
+[BrickMMO Flow](https://flow.brickmmo.com/) is a basic project management platform used to track your [BrickMMO](https://brickmmo.com/) tasks.
 
 ## Steps
 
 1. Register for a [GitHub](https://github.com) account and complete your [GitHub](https://github.com) profile.
 
-    ![GitHub online module](images/screenshot-github.png)
+    ![GitHub Account](images/screenshot-github.png)
 
-    Make sure to include the following infomation:
+    Make sure to include the following information:
 
     - Name
     - Short Bio
@@ -32,13 +32,13 @@ You will need many different accounts and tools during the Web Development progr
     - Social Accounts
     - Avatar (use something professional)
 
-2. Register for [Discord](https://discord.com/) and join the [BrickMMO Discord server](https://discord.gg/man4FjPG).
+2. Register for [Discord](https://discord.com/) and join the [BrickMMO Discord Server](https://discord.gg/man4FjPG).
 
-    ![BrickMMO Discord server](images/screenshot-discord.png)
+    ![BrickMMO Discord Server](images/screenshot-discord.png)
 
     BrickMMO Discord invite link: https://discord.gg/man4FjPG
 
-    Complete your [Discord](https://discord.com/) profile. Make sure to include the following infomation:
+    Complete your [Discord](https://discord.com/) profile. Make sure to include the following information:
 
     - Display Name
     - Avatar (use the same one as your GitHub account)
@@ -47,16 +47,16 @@ You will need many different accounts and tools during the Web Development progr
 
 3. Login to the [BrickMMO Flow](https://flow.brickmmo.com/) appliation and complete your profile. Your starting email is your `@humber.ca` email address and your default passsword is `password`. 
 
-    Make sure to include the following infomation:
+    Make sure to include the following information:
 
     - First and Last Name
     - Email Address
-    - GitHub and LinkedIn usernames
+    - GitHub and LinkedIn usernames (for example, mine are `codeadaca` and `adambenjaminthomas`)
     - Change your password
 
-    You should soon be able to mark the [Academic Intagrity](academic-integrity) and [Accounts](accounts) as complete!
+    You should soon be able to mark the [Academic Intagrity](academic-integrity) and [Accounts](accounts) tasks as complete!
 
-4. After you have completed your three accounts, submit your GitHub URL and Discord username in [Blackbaord](https://learn.humber.ca/).
+4. After you have completed your three accounts, submit your GitHub URL and Discord username in [Blackboard](https://learn.humber.ca/).
 
 [&#10132; Back to Task List](/)
 
