@@ -4,13 +4,13 @@
 
 ![GitHub Contributions](images/screenshot-contributions.png)
 
-[GitHub](https://github.com/) can also be used to help multiple developers work on the same codeset without overwritting each other's additions. However, this taks will focus on using the tool as an individual. In this task you will use [GitHub](https://github.com/) to:
+GitHub can also be used to help multiple developers work on the same codeset without overwritting each other's additions. However, this taks will focus on using the tool as an individual. In this task you will use GitHub to:
 
 - Store and share your code
-- Backups and version control
-- Practice using the GitHub CLI
+- Create backups and version control
+- Practice using the Git and GitHub CLI
 
-Remember that [Git](https://git-scm.com/) and [GitHub](https://github.com/) are two different things. Just like Gmail is one of many providers of email. GitHub is one of many providers for Git repository storage. 
+Remember that [Git](https://git-scm.com/) and [GitHub](https://github.com/) are two different things. Just like Gmail is one of many providers of email. GitHub is one of many providers for storing Git repositories. 
 
 Git and GitHub can be hard at first. And if you have never used the Command Line, it can be a bit intimidating. However, it might be the most important and widely used develpoment tool.
 
@@ -26,7 +26,7 @@ git --version
 
 ![Git Version](images/terminal-git-version.png)
 
-We will also use the [GitHub Command Line Interface (CLI)](https://cli.github.com/). Please download and install the proper version. Once you're done run the following command in your Terminal (Mac/Linux) or Git Bash (Windows) to confirm it has been installed:
+We will also use the [GitHub Command Line Interface (CLI) Tool](https://cli.github.com/). Please download and install the proper version. Once you're done, run the following command in your Terminal (Mac/Linux) or Git Bash (Windows) to confirm it has been installed:
 
 ```sh
 gh --version
@@ -50,6 +50,14 @@ Once you have the GitHub CLI installed, use it to login to your GitHub account:
     ![Terminal Authorization Code](images/terminal-auth-code.png)
 
     ![Screenshot Authorization Code](images/screenshot-auth-code.png)
+
+8. Confirm you have loggedin by checking the local configuration settings:
+
+    ```sh
+    git config -l
+    ```
+
+    ![Terminal Git Configuration](images/terminal-git-config.png)
 
 ## Individual Development Loop
 
