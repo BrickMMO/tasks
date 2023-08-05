@@ -136,7 +136,7 @@ I have written a set of rules for myself (and all BrickMMO development) to follo
 
 ## Steps
 
-To complete this task, please follow these steps:
+To complete this task, follow these steps:
 
 1. Create a repo for each of your classes.
 2. Clone each of those repos to your compauter.

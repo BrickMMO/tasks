@@ -20,7 +20,7 @@ You will need many different accounts and tools during the Web Development progr
 
 ## Steps
 
-To complete this task, please follow these steps:
+To complete this task, follow these steps:
 
 1. Register for a [GitHub](https://github.com) account and complete your [GitHub](https://github.com) profile.
 
