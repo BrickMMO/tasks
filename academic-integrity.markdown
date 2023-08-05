@@ -10,9 +10,14 @@ This course will outline those guidelines and require students to complete an on
 
 ## Steps
 
+To complete this task, please follow these steps:
+
 1. Review the [Academic Integrity Online Module](https://academicintegrity.codeadam.ca/). 
 2. Log into [Blackboard](https://learn.humber.ca/) and complete the Academic Integrity assessment. You will need to receive a 90% or higher grade on the assessment to receive a SAT for this task (18/20). You may attempt the assessment as many times as needed. 
-3. After you have completed the assessment with a grade of 90% or highter, your instructor will mark the task as complete. 
+
+## Submitting this Task
+
+After you have completed the assessment with a grade of 90% or highter, your instructor will mark the task as complete. 
 
 [&#10132; Back to Task List](/)
 

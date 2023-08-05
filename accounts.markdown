@@ -2,11 +2,11 @@
 
 You will need many different accounts and tools during the Web Development program. In this course you will need a [GitHub](https://github.com/), [Discord](https://discord.com/), and [BrickMMO Flow](https://flow.brickmmo.com/) account. 
 
-### GutHub
+### GitHub
 
 ![GitHub](images/logo-github.png) 
 
-[GitHub](https://github.com), is a platform and cloud-based service for software development and version control using Git, allowing developers to store and manage their code. ~ Widipedia
+[GitHub](https://github.com), is a platform and cloud-based service for software development and version control using [Git](https://git-scm.com/), allowing developers to store and manage their code. ~ Widipedia
 
 ### Discord
 
@@ -19,6 +19,8 @@ You will need many different accounts and tools during the Web Development progr
 [BrickMMO Flow](https://flow.brickmmo.com/) is a basic project management platform used to track your [BrickMMO](https://brickmmo.com/) tasks.
 
 ## Steps
+
+To complete this task, please follow these steps:
 
 1. Register for a [GitHub](https://github.com) account and complete your [GitHub](https://github.com) profile.
 
@@ -56,7 +58,9 @@ You will need many different accounts and tools during the Web Development progr
 
     You should soon be able to mark the [Academic Intagrity](academic-integrity) and [Accounts](accounts) tasks as complete!
 
-4. After you have completed your three accounts, submit your GitHub URL and Discord username in [Blackboard](https://learn.humber.ca/).
+## Submitting this Task
+
+After you have completed your three accounts, submit your GitHub URL and Discord username to the **Accounts** assignment in [Blackboard](https://learn.humber.ca/).
 
 [&#10132; Back to Task List](/)
 
