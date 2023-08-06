@@ -61,11 +61,12 @@ git clone https://github.com/<GITHUB_USERNAME>/<REPO_NAME>.git
 ```
 
 3. Then make changes to the repo content. 
-4. Commit and push these changes:
+4. Add, commit and push these changes:
 
 ```
-$ git commit -am "<CHANGE_DESCRIPTION>"
-$ git push origin main
+git add .
+git commit -am "<CHANGE_DESCRIPTION>"
+git push origin main
 ```
 
 5. Using a browser, navigate to your GitHub forked repo, click `Pull requests`, and click `New pull request`.
