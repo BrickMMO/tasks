@@ -82,15 +82,15 @@ The original GitHub repo owner will be notified of the pull request!
 
 To complete this task, follow these steps:
 
-1. Create a fork of the []() repo. 
+1. Create a fork of the [contributions](https://github.com/BrickMMO/contributions) repo. 
 2. Clone this repo to your computer.
 3. Add your name to the appropriate class list. 
-4. Create a page with any details you want to share.
+4. Create a page with any details you want to share. Name the pages using your GitHub username (for example `codeadamca.markdown`).
 5. Submit a pull request. 
 
 ## Submitting this Task
 
-Submit your class GitHub repo URLs to the **Individuals** assignment in [Blackboard](https://learn.humber.ca/).
+Once your instructor has approved your pull request, copy a link to your page and submit it to the **Groups** assignment in [Blackboard](https://learn.humber.ca/).
 
 [&#10132; Back to Task List](/)
 
