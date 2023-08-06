@@ -14,15 +14,17 @@ Here is the README.md file for the [Academic Integrity Online Module](https://gi
 
 ![Academic Integrity README.md](images/screendhot-academic-readme.png)
 
-Review these README.md files for more examples:
+My own personal website is abailble to view at [codeadam.ca](https://codeadam.ca). The code for my website is in my [codeadam-react-v1](https://github.com/codeadamca/codeadam-react-v1) repo and the control panel in my [codeadam-console-v1](https://github.com/codeadamca/codeadam-console-v1) repo. Each of these have README.md files.
+
+Even popular coding projects have README.md files, for examples:
 
 - [React](https://github.com/facebook/react)
 - [Ethereum](https://github.com/ethereum/go-ethereum)
 - [Docker Compose](https://github.com/docker/compose)
 
-> Notice that all the repo names are [lower-kebab-case](https://en.wiktionary.org/wiki/kebab_case)!
+> Notice that all the repo names are [lower-kebab-case](https://en.wiktionary.org/wiki/kebab_case)! Be consistent!
 
-This **tasks** website was built using only [Markdown](https://daringfireball.net/projects/markdown/) and deployed using [GitHub Pages](https://pages.github.com/) (we cover that later in the [Deployment Task](/deployment)).
+Markdown has uses outside of GitHub README.me files. [Stack Overflow](https://stackoverflow.com/) and [Discord](discord.com/) allow the use of Markdown when posting comments. This **tasks** website was built using only [Markdown](https://daringfireball.net/projects/markdown/) and deployed using [GitHub Pages](https://pages.github.com/) (we cover that later in the [Deployment Task](/deployment)).
 
 ## Steps
 
