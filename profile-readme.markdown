@@ -16,10 +16,10 @@ I have created a basic example on [My GitHub Page](https://github.com/codeadamca
 
 To complete this task, follow these steps:
 
-1. Create a repo with a name that matches your GitHub username
-2. Make sure the repo is public
-3. In this repo, create a README.md in the root
-4. Add some content to the README.md
+1. Create a repo with a name that matches your GitHub username.
+2. Make sure the repo is public.
+3. In this repo, create a README.md in the root.
+4. Add some content to the README.md.
 
 Consider adding a small bio, links to your social media websites, a link to your portfolio (if you have one), and information you want to provide to other developers.
 
