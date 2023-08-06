@@ -1,4 +1,4 @@
-## README.md
+## README.md Files
 
 Every GitHub repository you create should have a README.md. This file should tell other people why your project is useful, what they can do with your project, and how they can use it.
 
@@ -24,7 +24,11 @@ Even popular coding projects have README.md files, for examples:
 
 > Notice that all the repo names are [lower-kebab-case](https://en.wiktionary.org/wiki/kebab_case)! Be consistent!
 
-Markdown has uses outside of GitHub README.me files. [Stack Overflow](https://stackoverflow.com/) and [Discord](discord.com/) allow the use of Markdown when posting comments. This **tasks** website was built using only [Markdown](https://daringfireball.net/projects/markdown/) and deployed using [GitHub Pages](https://pages.github.com/) (we cover that later in the [Deployment Task](/deployment)).
+Markdown has uses outside of GitHub README.me files. [Stack Overflow](https://stackoverflow.com/) and [Discord](discord.com/) allow the use of Markdown when posting comments. 
+
+This **tasks** website was built using only [Markdown](https://daringfireball.net/projects/markdown/) and deployed using [GitHub Pages](https://pages.github.com/) (we cover that later in the [Deployment Task](/deployment)).
+
+The coding guideline websites [_readme](https://readme.codeadam.ca/), [tidy](https://tidy.brickmmo.com/), and [eplus](https://eplus.codeadam.ca/) are all written in [Markdown](https://daringfireball.net/projects/markdown/).
 
 ## Steps
 
