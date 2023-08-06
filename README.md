@@ -18,7 +18,7 @@ This project uses only [Markdown](https://www.markdownguide.org/) and is hosted 
 ## Repo Resources
 
 - [BrickMMO Tasks](https://tasks.brickmmo.ca)
-- [GitHub - About READEME.md files](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)
+- [GitHub - About README.md files](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)
 - [Markdown](https://www.markdownguide.org/)
 
 <a href="https://brickmmo.com">

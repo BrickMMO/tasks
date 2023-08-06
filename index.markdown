@@ -11,7 +11,7 @@ These tasks are to be completed in the following order:
 1. [Academic Integrity](academic-integrity)
 2. [Accounts](accounts)
 3. [GitHub for Individuals](individuals)
-4. [README.md](reademe)
+4. [README.md](readme)
 5. [Profile README.md](profile-readme)
 6. [GitHub for Groups](contributions)
 7. [Set Hackathon](set-hackathon)

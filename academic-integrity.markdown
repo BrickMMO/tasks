@@ -6,9 +6,9 @@ However, identifying what is and what isn't academic misconduct when writing cod
 
 ![Copying Code Meme](images/meme-copying.png)
 
-This course will outline those guidelines and require students to complete an online assessment to ensure the guidelines are understood.
+This course will outline those guidelines and require you to complete an online assessment to ensure the guidelines are understood.
 
-![Academic Integrity online module](images/screenshot-academit-integrity.png)
+![Academic Integrity online module](images/screenshot-academic-integrity.png)
 
 ## Steps
 
