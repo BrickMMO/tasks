@@ -47,7 +47,7 @@ All of these are described in the [Markdown Guide](https://www.markdownguide.org
 
 ## Submitting this Task
 
-Submit your class GitHub repo URLs to the **README.md** assignment in [Blackboard](https://learn.humber.ca/).
+Submit your class GitHub repo URLs with README.md files to the **README.md Files** assignment in [Blackboard](https://learn.humber.ca/).
 
 [&#10132; Back to Task List](/)
 
