@@ -18,6 +18,10 @@ You will need many different accounts and tools during the Web Development progr
 
 [BrickMMO Flow](https://flow.brickmmo.com/) is a basic project management platform used to track your [BrickMMO](https://brickmmo.com/) tasks.
 
+## Be Consistent
+
+Check out my online presence using my [LinkTree](https://linktr.ee/codeadamca) page. Notice the consistencey! My usernames are consistent (where possible), my avatars are consistent and professional, I use the same banner on all my coding related assets ([LinkedIn](https://www.linkedin.com/in/adambenjaminthomas/), [Twitter](https://twitter.com/codeadamca)), and I try to keep the colours consistent too!
+
 ## Steps
 
 To complete this task, follow these steps:
@@ -47,7 +51,7 @@ To complete this task, follow these steps:
     - Server Nickname (user your First Name and then the term `Tasks` in brackets, for example `Adam (Tasks)`)
     - Post your first message in the `tasks` channel
 
-3. Login to the [BrickMMO Flow](https://flow.brickmmo.com/) appliation and complete your profile. Your starting email is your `@humber.ca` email address and your default passsword is `password`. 
+3. Login to the [BrickMMO Flow](https://flow.brickmmo.com/) appliation and complete your profile. Your starting email is your `@humber.ca` email address and your default passsword is `password`.
 
     Make sure to include the following information:
 
