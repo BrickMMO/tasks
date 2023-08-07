@@ -89,9 +89,13 @@ To complete this task, follow these steps:
 4. Create a page with any details you want to share. Name the pages using your GitHub username (for example `codeadamca.markdown`).
 5. Submit a pull request. 
 
+For full instructions check out the README.md file in the [contributions](https://github.com/BrickMMO/contributions) repo. 
+
 ## Submitting this Task
 
 Once your instructor has approved your pull request, copy a link to your page and submit it to the **Groups** assignment in [Blackboard](https://learn.humber.ca/).
+
+For example, my link would be [https://contributions.brickmmo.com/faculty/codeadamca](https://contributions.brickmmo.com/faculty/codeadamca).
 
 [&#10132; Back to Task List](/)
 
