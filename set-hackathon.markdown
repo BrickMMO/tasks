@@ -8,7 +8,13 @@ The [BrickMMO](http://brickmmo.com/) smart city built with LEGO® bricks has man
 
 ![BrickMMO City](images/brickmmo.png)
 
-As the city grows we will integrate more and more sets into the smart city. We would like to integrate a varity of interactive components. In this task you will choose an official LEGO set and design an interactive component. In the past students have designed the following:
+As the city grows we will integrate more and more sets into the smart city. We would like to integrate a varity of interactive components. In this task you will choose an official LEGO set and design an interactive component.
+
+You will not be building and coding the interactive component. This is only a brainstorming session. Your concept may be completed by another groups of students in the future.
+
+In the past students have designed the following:
+
+### Loop Coaster
 
 The [Loop Coaster](https://www.lego.com/en-ca/product/loop-coaster-10303) that will run the ride on command:
 
@@ -16,13 +22,13 @@ The [Loop Coaster](https://www.lego.com/en-ca/product/loop-coaster-10303) that w
 
 > LEGO (n.d.). LEGO Loop Coaster. Retrieved August 7, 2023, from https://www.lego.com/en-ca/product/nano-gauntlet-76223
 
+### Infinity Gauntlet
+
 The [Infinity Gauntlet](https://www.lego.com/en-ca/product/nano-gauntlet-76223) that moves fingers and rotate:
 
 ![LEGO Loop Coaster](images/lego-infinity.png)
 
 > LEGO (n.d.). LEGO Infinity Gauntlet. Retrieved August 7, 2023, from https://www.lego.com/en-ca/product/nano-gauntlet-76223
-
-You will not be building and coding the interactive component. This is only a brainstorming session. Your concept may be completed by another groups of students in the future.
 
 ## Steps
 
