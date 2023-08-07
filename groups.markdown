@@ -12,40 +12,40 @@
 
 When working with Git and GitHub in groups, sometimes you will receive errors that you may not be able to resolve. When you're first learning these errors can be really frustrating. Here is one solution that will always work:
 
-1. If you have significant changes, make sure to save those somewhere. 
+1. If you have significant changes, make sure to save those somewhere.
 2. Delete your local copy of the project.
 3. Clone a fresh copy from the GutHub repo:
 
-    ```sh
-    git clone https://github.com/BrickMMO/tasks.git
-    ```
+   ```sh
+   git clone https://github.com/BrickMMO/tasks.git
+   ```
 
 4. Reapply your changes.
 5. Add current changes to the main copy:
 
-    ```sh
-    git add .
-    ```
+   ```sh
+   git add .
+   ```
 
 6. Commit changes to the main copy:
 
-    ```sh
-    git commit -am "Describe latest changes"
-    ```
+   ```sh
+   git commit -am "Describe latest changes"
+   ```
 
 7. Push the changes to your GitHub repo:
 
-    ```sh
-    git push origin main
-    ```
+   ```sh
+   git push origin main
+   ```
 
-There are better resolutions for some situations. However, this resolution has gotten me out of several jams. 
+There are better resolutions for some situations. However, this resolution has gotten me out of several jams.
 
 ## Stack Overflow
 
 ![Stack Overflow](images/logo-stack-overflow.png)
 
-Alternatively, you can Google your error, in which case you will likely find a resoution on [Stack Overflow](https://stackoverflow.com/). Or you can post a question to [Stack Overflow](https://stackoverflow.com/). Before you post a question, make sure you read the [How to Ask a Question](https://stackoverflow.com/help/how-to-ask) in the Stack Overtflow documentation. 
+Alternatively, you can Google your error, in which case you will likely find a resoution on [Stack Overflow](https://stackoverflow.com/). Or you can post a question to [Stack Overflow](https://stackoverflow.com/). Before you post a question, make sure you read the [How to Ask a Question](https://stackoverflow.com/help/how-to-ask) in the Stack Overtflow documentation.
 
 We will discuss [Stack Overflow](https://stackoverflow.com/) in more detail during the [Stack Overflow Task](stack-overflow).
 
@@ -62,7 +62,7 @@ Here is a basic example of forking a repo:
 git clone https://github.com/<GITHUB_USERNAME>/<REPO_NAME>.git
 ```
 
-3. Then make changes to the repo content. 
+3. Then make changes to the repo content.
 4. Add, commit and push these changes:
 
 ```
@@ -81,17 +81,30 @@ git push origin main
 
 The original GitHub repo owner will be notified of the pull request!
 
+## Details
+
+Some of these tasks are an exercise in paying attention to the details. Follow the instructions **carefully**! Copy the examples **exactly**! Follow the existing naming conventions.
+
 ## Steps
 
 To complete this task, follow these steps:
 
-1. Create a fork of the [contributions](https://github.com/BrickMMO/contributions) repo. 
-2. Clone this repo to your computer.
-3. Add your name to the appropriate class list. 
-4. Create a page with any details you want to share. Name the pages using your GitHub username (for example `codeadamca.markdown`).
-5. Submit a pull request. 
+1. Create a fork of the [contributions](https://github.com/BrickMMO/contributions) repo.
+2. Clone your new repo to your computer.
+3. Add your name to the appropriate class list.
+4. Create a page in the students folder with any details you want to share. Name the pages using your GitHub (or LinkedIn) username (for example `codeadamca.markdown`).
+5. Add a table with a list of BrickMMO projects you have contributed to. Look at other contributor pages for an example. At this point just include the `Tasks` project:
 
-For full instructions check out the README.md file in the [contributions](https://github.com/BrickMMO/contributions) repo. 
+   ```markdown
+   | Project |                                                                                  |
+   | ------- | -------------------------------------------------------------------------------- |
+   | Flow    | [https://brickmmo.github.io/flow-about/](https://brickmmo.github.io/flow-about/) |
+   | Tasks   | [https://tasks.brickmmo.com/](https://tasks.brickmmo.com/)                       |
+   ```
+
+6. Submit a pull request.
+
+For more details instructions, check out the README.md file in the [contributions](https://github.com/BrickMMO/contributions) repo.
 
 ## Submitting this Task
 
