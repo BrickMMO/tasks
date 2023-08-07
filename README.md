@@ -2,6 +2,9 @@
 
 A list of introductory tasks to be completed by students contributing the the [BrickMMO](http://brickmmo.com/) project.
 
+> **Note**  
+> All Markdown should follow the [_readme](https://readme.codeadam.ca/) guidelines.
+
 > This repo is available to view at  
 > [https://tasks.brickmmo.com](https://tasks.brickmmo.com)
 
