@@ -106,6 +106,12 @@ To complete this task, follow these steps:
 
 For more details instructions, check out the README.md file in the [contributions](https://github.com/BrickMMO/contributions) repo.
 
+> You can check our my page as an example:
+> [https://contributions.brickmmo.com/faculty/codeadamca](https://contributions.brickmmo.com/faculty/codeadamca)
+
+> Or you can view the Markdown here:
+> [https://github.com/BrickMMO/contributions/blob/main/faculty/codeadamca.markdown](https://github.com/BrickMMO/contributions/blob/main/faculty/codeadamca.markdown)
+
 ## Submitting this Task
 
 Once your instructor has approved your pull request, copy a link to your page and submit it to the **Groups** assignment in [Blackboard](https://learn.humber.ca/).
