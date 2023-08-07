@@ -91,18 +91,12 @@ To complete this task, follow these steps:
 
 1. Create a fork of the [contributions](https://github.com/BrickMMO/contributions) repo.
 2. Clone your new repo to your computer.
-3. Add your name to the appropriate class list.
-4. Create a page in the students folder with any details you want to share. Name the pages using your GitHub (or LinkedIn) username (for example `codeadamca.markdown`).
-5. Add a table with a list of BrickMMO projects you have contributed to. Look at other contributor pages for an example. At this point just include the `Tasks` project:
-
-   ```markdown
-   | Project |                                                                                  |
-   | ------- | -------------------------------------------------------------------------------- |
-   | Flow    | [https://brickmmo.github.io/flow-about/](https://brickmmo.github.io/flow-about/) |
-   | Tasks   | [https://tasks.brickmmo.com/](https://tasks.brickmmo.com/)                       |
-   ```
-
-6. Submit a pull request.
+3. Create a page in the students folder. Name the page using your GitHub (or LinkedIn) username (for example `codeadamca.markdown`).
+4. Add your image to the repo. Name your image using your GitHub (or LinkedIn) username (for example `codeadamca.jopg`).
+5. Add your information to your page.
+6. Add a table with a list of BrickMMO projects you have contributed to. At this point just include the `Tasks` project and link it to `https://tasks.brickmmo.com/`.
+7. Add your name to any class pages.
+8. Submit a pull request.
 
 For more details instructions, check out the README.md file in the [contributions](https://github.com/BrickMMO/contributions) repo.
 
