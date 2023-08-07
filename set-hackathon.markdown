@@ -18,6 +18,8 @@ The [Loop Coaster](https://www.lego.com/en-ca/product/loop-coaster-10303) that w
 
 The [Infinity Gauntlet](https://www.lego.com/en-ca/product/nano-gauntlet-76223) that moves fingers and rotate:
 
+![LEGO Loop Coaster](images/lego-infinity.png)
+
 > LEGO (n.d.). LEGO Infinity Gauntlet. Retrieved August 7, 2023, from https://www.lego.com/en-ca/product/nano-gauntlet-76223
 
 You will not be building and coding the interactive component. This is only a brainstorming session. Your concept may be completed by another groups of students in the future.
