@@ -1,3 +1,5 @@
+<style>@import url("//readme.codeadam.ca/readme.css");</style>
+
 ## GitHub for Individuals
 
 [GitHub](https://github.com/) is one of the most popular and important development tools you will use. It keeps a history of your development activity and can be used as a tool to show potential employers your code and coding habits. 
