@@ -83,7 +83,7 @@ The original GitHub repo owner will be notified of the pull request!
 
 ## Details
 
-Some of these tasks are an exercise in paying attention to the details. Follow the instructions **carefully**! Copy the examples **exactly**! Follow the existing naming conventions.
+Some of these tasks are an exercise in paying attention to the details. **Read** the instructions! Follow the instructions **carefully** and **slowly**! Copy the examples **exactly**! Follow the existing naming conventions.
 
 ## Steps
 
