@@ -1,3 +1,5 @@
+<style>@import url("//readme.codeadam.ca/readme.css");</style>
+
 ## README.md Files
 
 Every GitHub repository you create should have a README.md. This file should tell other people why your project is useful, what they can do with your project, and how they can use it.
