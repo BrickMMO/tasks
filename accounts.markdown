@@ -1,3 +1,5 @@
+<style>@import url("//readme.codeadam.ca/readme.css");</style>
+
 ## Accounts
 
 You will need many different accounts and tools during the Web Development program. In this course you will need a [GitHub](https://github.com/), [Discord](https://discord.com/), and [BrickMMO Flow](https://flow.brickmmo.com/) account. 
