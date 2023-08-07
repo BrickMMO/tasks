@@ -1,5 +1,7 @@
 # tasks
 
+<style>@import url("//readme.codeadam.ca/readme.css");</style>
+
 This repo stores a list of introductory tasks to be completed by students contributing the [BrickMMO](http://brickmmo.com/) project.
 
 For due dates please login to [BrickMMO Flow](https://flow.brickmmo.com/).
