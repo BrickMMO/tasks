@@ -23,14 +23,13 @@ These tasks are to be completed in the following order:
 11. [Debugging](debugging)
 12. [Stack Overflow](stack-overflow)
 
-
 ## Phase Two
 
 These tasks are to be completed in the following order:
 
 ## Programming Guidelines
 
-All [BrickMMO](https://brickmmo.com/) related projects follow [_readme](https://readme.codeadam.ca/), [tidy](https://tidy.brickmmo.com/), and [eplus](https://eplus.codeadam.ca/) guidelines.
+All [BrickMMO](https://brickmmo.com/) related projects follow [\_readme](https://readme.codeadam.ca/), [tidy](https://tidy.brickmmo.com/), and [eplus](https://eplus.codeadam.ca/) guidelines.
 
 ---
 
