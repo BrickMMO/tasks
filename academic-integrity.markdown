@@ -1,3 +1,5 @@
+<style>@import url("//readme.codeadam.ca/readme.css");</style>
+
 ## Academic Integrity
 
 Writing code for academic purposes is similar to all academic writing in that students are required to follow similar guidelines.
