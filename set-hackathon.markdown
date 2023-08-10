@@ -42,10 +42,10 @@ To complete this task, follow these steps:
 2. Brainstorm how this set can be adjsuted to become interactive.
 3. Brainstorm which sensors, motors, and lights will be required to integrate the concept.
 4. Document this interactive concept using the Google Docs template.
-5. Add your document to the [hackathon](https://github.com/BrickMMO/hackathon-set.git) repo. You will need to fork the repo, add your changes, and submit a pull request.
+5. Add your document to the [hackathon-set](https://github.com/BrickMMO/hackathon-set.git) repo. You will need to fork the repo, add your changes, and submit a pull request.
 
-> There are more instructions in the hackathon repo:  
-> [hackathon](https://github.com/BrickMMO/hackathon-set.git)
+> There are more detailed instructions in the hackathon repo:  
+> [https://github.com/BrickMMO/hackathon-set.git](https://github.com/BrickMMO/hackathon-set.git)
 
 ## Submitting this Task
 
