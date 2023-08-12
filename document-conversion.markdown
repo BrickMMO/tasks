@@ -9,7 +9,7 @@ Many of the BrickMMO tasks require students to create PDF documents or slide dec
 - [Set Hackathon](hackathon-set)
 - [System Hackathon](hackathon-system)
 
-We want to keep a copy of these documents in a easy to read format.
+We want to keep a copy of these documents in a plain text and easy to read format.
 
 In this task you will be assigned a PDF document or slide deck and you will convert the document to [Markdown](https://daringfireball.net/projects/markdown/).
 
