@@ -20,8 +20,8 @@ These tasks are to be completed in the following order:
 8. [Document Conversion](document-conversion)
 9. [Deployment](deployment)
 10. [System Hackathon](hackathon-system)
-11. [Debugging](debugging)
-12. [Stack Overflow](stack-overflow)
+11. [Stack Overflow](stack-overflow)
+12. [Project](project)
 
 ## Phase Two
 
