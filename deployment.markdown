@@ -60,7 +60,7 @@ To complete this task, follow these steps:
 9. Using Infinity Free Hosting make this page available at `http://<SOMETHING>.epizy.com/about-me`
 
    > Mine is available on Infinity Free at  
-   > [https://codeadam.epizy.com](https://codeadam.epizy.com)
+   > [http://codeadam.epizy.com/about-me](http://codeadam.epizy.com/about-me)
 
 ## Submitting this Task
 
