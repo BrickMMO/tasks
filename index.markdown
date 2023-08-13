@@ -18,7 +18,7 @@ These tasks are to be completed in the following order:
 6. [GitHub for Groups](groups)
 7. [Set Hackathon](hackathon-set)
 8. [Document Conversion](document-conversion)
-9. [Deployment](deployemt)
+9. [Deployment](deployment)
 10. [System Hackathon](hackathon-system)
 11. [Debugging](debugging)
 12. [Stack Overflow](stack-overflow)
