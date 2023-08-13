@@ -12,7 +12,7 @@ In your groups you will be completing the [BrickMMO System Hackathon](https://br
 
 To complete this task, follow these steps:
 
-1. Log in to [Blackboard](https://learn.humber.ca/) and find your group members for the **Set Hackathon** assignment.
+1. Log in to [Blackboard](https://learn.humber.ca/) and find your group members for the **System Hackathon** assignment.
 2. Rearrange yourselves so your group is all sitting together at a desk.
 3. Complete the instructions on the [BrickMMO System Hackathon](https://brickmmo.github.io/hackathon-system/) page.
 

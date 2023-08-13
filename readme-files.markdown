@@ -8,7 +8,7 @@ Every GitHub repository you create should have a README.md. This file should tel
 
 README.md files are written in [Markdown](https://daringfireball.net/projects/markdown/). Markdown is a text-to-HTML conversion tool for web writers. Markdown allows you to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid XHTML (or HTML). It will be the easiest language you learn in this program.
 
-> Checkout the [Markdown Guide](https://www.markdownguide.org/) for a reference. 
+> Checkout the [Markdown Guide](https://www.markdownguide.org/) for a reference.
 
 ## Examples
 
@@ -26,11 +26,11 @@ Even popular coding projects have README.md files, for examples:
 
 > Notice that all the repo names are [lower-kebab-case](https://en.wiktionary.org/wiki/kebab_case)! Be consistent!
 
-Markdown has uses outside of GitHub README.me files. [Stack Overflow](https://stackoverflow.com/) and [Discord](discord.com/) allow the use of Markdown when posting comments. 
+Markdown has uses outside of GitHub README.me files. [Stack Overflow](https://stackoverflow.com/) and [Discord](discord.com/) allow the use of Markdown when posting comments.
 
 This **tasks** website was built using only [Markdown](https://daringfireball.net/projects/markdown/) and deployed using [GitHub Pages](https://pages.github.com/) (we cover that later in the [Deployment Task](/deployment)).
 
-The coding guideline websites [_readme](https://readme.codeadam.ca/), [tidy](https://tidy.brickmmo.com/), and [eplus](https://eplus.codeadam.ca/) are all written in [Markdown](https://daringfireball.net/projects/markdown/).
+The coding guideline websites [\_readme](https://readme.codeadam.ca/), [tidy](https://tidy.brickmmo.com/), and [eplus](https://eplus.codeadam.ca/) are all written in [Markdown](https://daringfireball.net/projects/markdown/).
 
 ## Steps
 
@@ -39,15 +39,15 @@ To complete this task, follow these steps:
 1. Create a README.md file for each of your repos.
 2. Each README.md file should include the following:
 
-    - A main heading using a #
-    - A paragraph describinbg each repo
+   - A main heading using a #
+   - A paragraph describinbg each repo
 
 3. Tryin adding the following:
 
-    - A link
-    - An image
-    - A note, warning, or information
-    - A code sample
+   - A link
+   - An image
+   - A note, warning, or information
+   - A code sample
 
 All of these are described in the [Markdown Guide](https://www.markdownguide.org/).
 
