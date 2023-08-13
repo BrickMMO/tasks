@@ -62,6 +62,8 @@ To complete this task, follow these steps:
    > Mine is available on Infinity Free at  
    > [http://codeadam.epizy.com/about-me](http://codeadam.epizy.com/about-me)
 
+![About Me Example](images/screenshot-about-me.png)
+
 ## Submitting this Task
 
 Once the pull request has been approved, submit a link to your GitHub repo, your about me page hosted using GitHub pages, and your about me page hosted using Infinity Free to the **Deployment** assignment in [Blackboard](https://learn.humber.ca/).
