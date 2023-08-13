@@ -14,6 +14,8 @@ You will lthen deply this website to [GitHub Pages](https://pages.github.com/) a
 
 GitHub has a service called [GitHub Pages](https://pages.github.com/). This allows you to turn any repo, branch, and folder into a live website. GitHub Pages is capable of hosting any frontend languages (Markdown, HTML, CSS, JavaScript, React). It cannot host serverside languages (PHP, C#, Python) or a database (Mongo, MySQL).
 
+![GitHub Pages](images/screenshot-github-pages.png)
+
 By default a hosted repo will be available at `https://<HUB_USERNAME>.github.io/<REPO_NAME>/`. But you can also point a custom domain name to a repo. Here are some examples of my GitHub Pages hosted websites:
 
 - The `flow-about` repo hosted at [https://github.com/BrickMMO/flow-about](https://github.com/BrickMMO/flow-about) is available to view as a website at [https://brickmmo.github.io/flow-about/](https://brickmmo.github.io/flow-about/)
@@ -29,6 +31,8 @@ For this task you will create a repo named `about-me` and deploy a basic HTML an
 ### Infinity Free Hosting
 
 There are many free hosting services avalable. But remember, you get what you pay for!
+
+![Infinity Free](images/screenshot-infinity-free.png)
 
 I have had a good experience with [Infinity Free Hosting](https://www.infinityfree.com/) and [000WebHost](https://www.000webhost.com/).
 
