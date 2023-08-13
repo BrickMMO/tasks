@@ -58,28 +58,28 @@ Here is a basic example of forking a repo:
 1. Navigate to the GitHub repo you would like to contribute to and fork this repository by clicking `Fork`. All the default values are fine. Then click `Create fork`. You will now have a repository in your GitHub account with the specified name.
 2. Then clone your new repo:
 
-```sh
-git clone https://github.com/<GITHUB_USERNAME>/<REPO_NAME>.git
-```
+   ```sh
+   git clone https://github.com/<GITHUB_USERNAME>/<REPO_NAME>.git
+   ```
 
 3. Then make changes to the repo content.
 4. Add, commit and push these changes:
-
-```
-git add .
-git commit -am "<CHANGE_DESCRIPTION>"
-git push origin main
-```
+   
+   ```
+   git add .
+   git commit -am "<CHANGE_DESCRIPTION>"
+   git push origin main
+   ```
 
 5. Using a browser, navigate to your GitHub forked repo, click `Pull requests`, and click `New pull request`.
 
-![New Pull Request](images/screenshot-pull-request.png)
+   ![New Pull Request](images/screenshot-pull-request.png)
 
 6. Confirm the branch, review the code you are submitting, and click `Create pull request`.
 
-![Submit Pull Request](images/screenshot-pull-submit.png)
+   ![Submit Pull Request](images/screenshot-pull-submit.png)
 
-The original GitHub repo owner will be notified of the pull request!
+   The original GitHub repo owner will be notified of the pull request!
 
 ## Details
 
