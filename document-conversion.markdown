@@ -6,8 +6,9 @@ For this task you will be contributing to the docmentation of [BrickMMO](https:/
 
 Many of the BrickMMO tasks require students to create PDF documents or slide decks:
 
-- [Set Hackathon](hackathon-set)
-- [System Hackathon](hackathon-system)
+- [Set Hackathon](https://github.com/BrickMMO/hackathon-set)
+- [System Hackathon](https://github.com/BrickMMO/hackathon-system)
+- [Flow About](https://github.com/BrickMMO/flow-about)
 
 We want to keep a copy of these documents in a plain text and easy to read format.
 
