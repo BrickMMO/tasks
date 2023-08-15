@@ -19,6 +19,15 @@ Here is a great illustration of what you can expect when posting a question:
 
 ![How to Hard Boil and Egg](images/meme-egg.jpeg)
 
+### Examples
+
+Here are a few of my past Stack Overflow questions:
+
+1. [Node.js Fetch says Certificate Expired](https://stackoverflow.com/questions/69455385/node-js-fetch-says-certificate-expired)
+2. [Bootstrap h-100 only on medium screen and up](https://stackoverflow.com/questions/66582657/bootstrap-h-100-only-on-medium-screen-and-up)
+3. [GitHub Markdown Warning and Note all on one line](https://stackoverflow.com/questions/75777321/github-markdown-warning-and-note-all-on-one-line)
+4. [Using the Map Function in a React Component](https://stackoverflow.com/questions/69326936/using-the-map-function-in-a-react-component)
+
 ## Steps
 
 To complete this task, follow these steps:
