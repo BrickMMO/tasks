@@ -71,6 +71,8 @@ To complete this task, follow these steps:
    - Twitter (if you have one)
    - GitHub
 
+   ![Stupid Question](images/meme-stupid.jpeg)
+
 4. Login to the [BrickMMO Flow](https://flow.brickmmo.com/) appliation and complete your profile. Your starting email is your `@humber.ca` email address and your default passsword is `password`.
 
    Make sure to include the following information:

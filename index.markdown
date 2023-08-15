@@ -4,6 +4,8 @@
 
 This repo stores a list of introductory tasks to be completed by students contributing the [BrickMMO](http://brickmmo.com/) project.
 
+![I Love Hat Programming](images/meme-hate-love.jpeg)
+
 For due dates please login to [BrickMMO Flow](https://flow.brickmmo.com/).
 
 ## Phase One
