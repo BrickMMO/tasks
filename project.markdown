@@ -4,7 +4,9 @@
 
 For this assignment you will work in groups and you will choose one of the following:
 
-- [pseudocodecodeadam.ca](https://pseudocodecodeadam.ca)
+- [Pseudocode](https://pseudocodecodeadam.ca)
+- [BrickMMO Flow](https://flow.brickmmo.com/)
+- 
 
 ## Steps
 
