@@ -5,8 +5,10 @@
 For this assignment you will work in groups and you will choose one of the following:
 
 - [Pseudocode](https://pseudocodecodeadam.ca)
-- [BrickMMO Flow](https://flow.brickmmo.com/)
-- 
+- [Flow](https://flow.brickmmo.com/)
+- Units
+- Colours
+- Branding
 
 ## Steps
 
