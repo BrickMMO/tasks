@@ -24,7 +24,7 @@ You will need many different accounts and tools during the Web Development progr
 
 ### BrickMMO Flow
 
-[BrickMMO Flow](https://flow.brickmmo.com/) is a basic project management platform used to track your [BrickMMO](https://brickmmo.com/) tasks.
+[BrickMMO Flow](https://flow.brickmmo.com/) is a basic project management platform used to track your [BrickMMO](https://brickmmo.com/) tasks. To login for the first time use your `@humber` email and `password`.
 
 ## Be Consistent
 
@@ -84,9 +84,11 @@ To complete this task, follow these steps:
 
    You should soon be able to mark the [Academic Intagrity](academic-integrity) and [Accounts](accounts) tasks as complete!
 
+5. Log in to Blackboard and post a link to your GitHub and Stack Overflow acccounts in the `accounts` message board.
+
 ## Submitting this Task
 
-After you have completed your three accounts, submit your GitHub URL and Discord username to the **Accounts** assignment in [Blackboard](https://learn.humber.ca/).
+After you have completed your three accounts, submit your GitHub URL, Stack Oveflow URL, and Discord username to the **Accounts** assignment in [Blackboard](https://learn.humber.ca/).
 
 [&#10132; Back to Task List](/)
 
