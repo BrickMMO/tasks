@@ -88,7 +88,7 @@ To complete this task, follow these steps:
 
 ## Submitting this Task
 
-After you have completed your three accounts, submit your GitHub URL, Stack Oveflow URL, and Discord username to the **Accounts** assignment in [Blackboard](https://learn.humber.ca/).
+After you have completed your four accounts, submit your GitHub URL, Stack Overflow URL, and Discord username to the **Accounts** assignment in [Blackboard](https://learn.humber.ca/).
 
 [&#10132; Back to Task List](/)
 
