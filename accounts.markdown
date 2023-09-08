@@ -24,7 +24,9 @@ You will need many different accounts and tools during the Web Development progr
 
 ### BrickMMO Flow
 
-[BrickMMO Flow](https://flow.brickmmo.com/) is a basic project management platform used to track your [BrickMMO](https://brickmmo.com/) tasks. To login for the first time use your `@humber` email and `password`.
+[BrickMMO Flow](https://flow.brickmmo.com/) is a basic project management platform used to track your [BrickMMO](https://brickmmo.com/) tasks. To login for the first time use your `@humber` email and `password`. 
+
+Once you have logged in, navigat to the `Skills` page, and update your skills level for each skill. 
 
 ## Be Consistent
 
