@@ -50,7 +50,11 @@ To complete this task, follow these steps:
   
    Take note of your GitHub URL. You can find it by clicking on your avatar and then `Your profile`:
 
-   ![GitHub Avatar](images/screenshot-github-avatar.png)   
+   ![GitHub Avatar](images/screenshot-github-avatar.png)
+
+   And then copying the the new URL:
+
+   ![GitHub Avatar](images/screenshot-github-url.png)
 
 3. Register for [Discord](https://discord.com/) and join the [BrickMMO Discord Server](https://discord.gg/man4FjPG).
 
