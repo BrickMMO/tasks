@@ -58,7 +58,7 @@ To complete this task, follow these steps:
 
    ![BrickMMO Discord Server](images/screenshot-discord.png)
 
-   BrickMMO Discord invite link: [https://discord.gg/man4FjPG](https://discord.gg/man4FjPG)
+   BrickMMO Discord invite link: [https://discord.gg/SV4ssQYRq3](https://discord.gg/SV4ssQYRq3)
 
    Complete your [Discord](https://discord.com/) profile. Make sure to include the following information:
 
