@@ -26,8 +26,6 @@ You will need many different accounts and tools during the Web Development progr
 
 [BrickMMO Flow](https://flow.brickmmo.com/) is a basic project management platform used to track your [BrickMMO](https://brickmmo.com/) tasks. To login for the first time use your `@humber` email and `password`. 
 
-Once you have logged in, navigat to the `Skills` page, and update your skills level for each skill. 
-
 ## Be Consistent
 
 Check out my online presence using my [LinkTree](https://linktr.ee/codeadamca) page. Notice the consistencey! My usernames are consistent (where possible), my avatars are consistent and professional, I use the same banner on all my coding related assets ([LinkedIn](https://www.linkedin.com/in/adambenjaminthomas/), [Twitter](https://twitter.com/codeadamca)), and I try to keep the colours consistent too!
@@ -91,18 +89,20 @@ To complete this task, follow these steps:
 
    ![GitHub Avatar](images/screenshot-stackoverflow-url.png)
 
-6. Login to the [BrickMMO Flow](https://flow.brickmmo.com/) appliation and complete your profile. Your starting email is your `@humber.ca` email address and your default passsword is `password`.
+5. Login to the [BrickMMO Flow](https://flow.brickmmo.com/) appliation and complete your profile. Your starting email is your personal email you provided Humber when registering, and your default password is `password`.
 
    Make sure to include the following information:
 
    - First and Last Name
    - Email Address
-   - GitHub and LinkedIn usernames (for example, mine are `codeadaca` and `adambenjaminthomas`)
+   - GitHub and LinkedIn usernames (for example, mine are `codeadamca` and `adambenjaminthomas`)
    - Change your password
+  
+   Once you have logged in, navigate to the `Skills` page, and update your comfort levels for each skill. 
 
-   You should soon be able to mark the [Academic Intagrity](academic-integrity) and [Accounts](accounts) tasks as complete!
+   You should also soon be able to mark the [Academic Intagrity](academic-integrity) and [Accounts](accounts) tasks as complete!
 
-7. Log in to Blackboard and post a link to your GitHub and Stack Overflow acccounts in the `accounts` message board.
+6. Log in to Blackboard and post a link to your GitHub and Stack Overflow acccounts in the `accounts` message board.
 
 ## Submitting this Task
 
