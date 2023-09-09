@@ -47,8 +47,12 @@ To complete this task, follow these steps:
    - Email Address
    - Social Accounts
    - Avatar (use something professional)
+  
+   Take note of your GitHub URL. You can find it by clicking on your avatar and then `Your profile`:
 
-2. Register for [Discord](https://discord.com/) and join the [BrickMMO Discord Server](https://discord.gg/man4FjPG).
+   ![GitHub Avatar](_readme/screenshot-github-avatar.png)   
+
+3. Register for [Discord](https://discord.com/) and join the [BrickMMO Discord Server](https://discord.gg/man4FjPG).
 
    ![BrickMMO Discord Server](images/screenshot-discord.png)
 
@@ -61,7 +65,7 @@ To complete this task, follow these steps:
    - Server Nickname (user your First Name and then the term `Tasks` in brackets, for example `Adam (Tasks)`)
    - Post your first message in the `tasks` channel
 
-3. Register for [Stack Overflow](https://stackoverflow.com/) and complete your profile:
+4. Register for [Stack Overflow](https://stackoverflow.com/) and complete your profile:
 
    ![Stack Overlow](images/screenshot-stack-overflow.png)
 
@@ -75,7 +79,7 @@ To complete this task, follow these steps:
 
    ![Stupid Question](images/meme-stupid.jpeg)
 
-4. Login to the [BrickMMO Flow](https://flow.brickmmo.com/) appliation and complete your profile. Your starting email is your `@humber.ca` email address and your default passsword is `password`.
+5. Login to the [BrickMMO Flow](https://flow.brickmmo.com/) appliation and complete your profile. Your starting email is your `@humber.ca` email address and your default passsword is `password`.
 
    Make sure to include the following information:
 
@@ -86,7 +90,7 @@ To complete this task, follow these steps:
 
    You should soon be able to mark the [Academic Intagrity](academic-integrity) and [Accounts](accounts) tasks as complete!
 
-5. Log in to Blackboard and post a link to your GitHub and Stack Overflow acccounts in the `accounts` message board.
+6. Log in to Blackboard and post a link to your GitHub and Stack Overflow acccounts in the `accounts` message board.
 
 ## Submitting this Task
 
