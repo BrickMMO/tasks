@@ -83,7 +83,15 @@ To complete this task, follow these steps:
 
    ![Stupid Question](images/meme-stupid.jpeg)
 
-5. Login to the [BrickMMO Flow](https://flow.brickmmo.com/) appliation and complete your profile. Your starting email is your `@humber.ca` email address and your default passsword is `password`.
+   Take note of your Stack Overflow URL. You can find it by clicking on your avatar:
+
+   ![GitHub Avatar](images/screenshot-stackoverflow-avatar.png)
+
+   And then copying the the new URL:
+
+   ![GitHub Avatar](images/screenshot-stackoverflow-url.png)
+
+6. Login to the [BrickMMO Flow](https://flow.brickmmo.com/) appliation and complete your profile. Your starting email is your `@humber.ca` email address and your default passsword is `password`.
 
    Make sure to include the following information:
 
@@ -94,7 +102,7 @@ To complete this task, follow these steps:
 
    You should soon be able to mark the [Academic Intagrity](academic-integrity) and [Accounts](accounts) tasks as complete!
 
-6. Log in to Blackboard and post a link to your GitHub and Stack Overflow acccounts in the `accounts` message board.
+7. Log in to Blackboard and post a link to your GitHub and Stack Overflow acccounts in the `accounts` message board.
 
 ## Submitting this Task
 
