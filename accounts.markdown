@@ -54,7 +54,7 @@ To complete this task, follow these steps:
 
    ![GitHub Avatar](images/screenshot-github-url.png)
 
-3. Register for [Discord](https://discord.com/) and join the [BrickMMO Discord Server](https://discord.gg/man4FjPG).
+3. Register for [Discord](https://discord.com/) and join the [BrickMMO Discord Server](https://discord.gg/SV4ssQYRq3).
 
    ![BrickMMO Discord Server](images/screenshot-discord.png)
 
