@@ -8,7 +8,7 @@ You will need many different accounts and tools during the Web Development progr
 
 ![GitHub](images/logo-github.png)
 
-[GitHub](https://github.com), is a platform and cloud-based service for software development and version control using [Git](https://git-scm.com/), allowing developers to store and manage their code. ~ Widipedia
+[GitHub](https://github.com), is a platform and cloud-based service for software development and version control using [Git](https://git-scm.com/), allowing developers to store and manage their code. ~ Wikipedia
 
 ### Discord
 
@@ -20,7 +20,7 @@ You will need many different accounts and tools during the Web Development progr
 
 ![Discord](images/logo-stack-overflow.png)
 
-[Stack Overflor](https://stackoverflow.com/) Stack Overflow is a question-and-answer website for programmers. ~ Widipedia
+[Stack Overflow](https://stackoverflow.com/) Stack Overflow is a question-and-answer website for programmers. ~ Wikipedia
 
 ### BrickMMO Flow
 
@@ -28,7 +28,7 @@ You will need many different accounts and tools during the Web Development progr
 
 ## Be Consistent
 
-Check out my online presence using my [LinkTree](https://linktr.ee/codeadamca) page. Notice the consistencey! My usernames are consistent (where possible), my avatars are consistent and professional, I use the same banner on all my coding related assets ([LinkedIn](https://www.linkedin.com/in/adambenjaminthomas/), [Twitter](https://twitter.com/codeadamca)), and I try to keep the colours consistent too!
+Check out my online presence using my [LinkTree](https://linktr.ee/codeadamca) page. Notice the consistency! My usernames are consistent (where possible), my avatars are consistent and professional, I use the same banner on all my coding related assets ([LinkedIn](https://www.linkedin.com/in/adambenjaminthomas/), [Twitter](https://twitter.com/codeadamca)), and I try to keep the colours consistent too!
 
 ## Steps
 
@@ -69,7 +69,7 @@ To complete this task, follow these steps:
 
 4. Register for [Stack Overflow](https://stackoverflow.com/) and complete your profile:
 
-   ![Stack Overlow](images/screenshot-stack-overflow.png)
+   ![Stack Overflow](images/screenshot-stack-overflow.png)
 
    Complete your [Stack Overflow](https://stackoverflow.com/) profile. Make sure to include the following information:
 
@@ -89,7 +89,7 @@ To complete this task, follow these steps:
 
    ![GitHub Avatar](images/screenshot-stackoverflow-url.png)
 
-5. Login to the [BrickMMO Flow](https://flow.brickmmo.com/) appliation and complete your profile. Your starting email is your personal email you provided Humber when registering, and your default password is `password`.
+5. Login to the [BrickMMO Flow](https://flow.brickmmo.com/) application and complete your profile. Your starting email is your personal email you provided Humber when registering, and your default password is `password`.
 
    Make sure to include the following information:
 
@@ -100,9 +100,9 @@ To complete this task, follow these steps:
   
    Once you have logged in, navigate to the `Skills` page, and update your comfort levels for each skill. 
 
-   You should also soon be able to mark the [Academic Intagrity](academic-integrity) and [Accounts](accounts) tasks as complete!
+   You should also soon be able to mark the [Academic Integrity](academic-integrity) and [Accounts](accounts) tasks as complete!
 
-6. Log in to Blackboard and post a link to your GitHub and Stack Overflow acccounts in the `accounts` message board.
+6. Log in to Blackboard and post a link to your GitHub and Stack Overflow accounts in the `accounts` message board.
 
 ## Submitting this Task
 
