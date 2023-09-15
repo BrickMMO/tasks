@@ -6,7 +6,7 @@
 
 ![GitHub Contributions](images/screenshot-contributions.png)
 
-GitHub can also be used to help multiple developers work on the same codeset without overwritting each other's additions. However, this taks will focus on using the tool as an individual. In this task you will use GitHub to:
+GitHub can also be used to help multiple developers work on the same code set without overwriting each other's additions. However, this task will focus on using the tool as an individual. In this task you will use GitHub to:
 
 - Store and share your code
 - Create backups and version control
@@ -14,7 +14,7 @@ GitHub can also be used to help multiple developers work on the same codeset wit
 
 Remember that [Git](https://git-scm.com/) and [GitHub](https://github.com/) are two different things. Just like Gmail is one of many providers of email. GitHub is one of many providers for storing Git repositories.
 
-Git and GitHub can be hard at first. And if you have never used the Command Line, it can be a bit intimidating. However, it might be the most important and widely used develpoment tool.
+Git and GitHub can be hard at first. And if you have never used the Command Line, it can be a bit intimidating. However, it might be the most important and widely used development tool.
 
 ![Using the Terminal Meme](images/meme-terminal.png)
 
@@ -111,9 +111,9 @@ I would recommend the following:
 2. Create a GitHub repo for each assignment. You can use these repos to hand assignments in. And you can also use a GitHub repo to host a project (we cover that later in the [Deployment Task](/deployment)).
 3. If you're learning a new skill, create a repo and store the code there in case you need it for later.
 
-## Consistancy
+## Consistency
 
-Be consistent! As a developer you should be obsessed with consistency!
+Be consistent! As a developer you should be obsessed with C\consistency!
 
 - Use consistent naming conventions.
 - Give your files nice clean names like `logo-github.png`. Not `IMG-20170407-WA0007_resized.jpg`, `IMG-20170407-WA0007.jpg`, or `Copy of IMG-20170407-WA0007.jpg`.
