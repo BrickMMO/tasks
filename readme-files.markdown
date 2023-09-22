@@ -4,7 +4,7 @@
 
 Every GitHub repository you create should have a README.md. This file should tell other people why your project is useful, what they can do with your project, and how they can use it.
 
-> Checkout the [GitHub About READMEs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes) page for more information.
+> Checkout the [GitHub About README](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes) page for more information.
 
 README.md files are written in [Markdown](https://daringfireball.net/projects/markdown/). Markdown is a text-to-HTML conversion tool for web writers. Markdown allows you to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid XHTML (or HTML). It will be the easiest language you learn in this program.
 
@@ -16,7 +16,7 @@ Here is the README.md file for the [Academic Integrity Online Module](https://gi
 
 ![Academic Integrity README.md](images/screenshot-academic-readme.png)
 
-My own personal website is abailble to view at [codeadam.ca](https://codeadam.ca). The code for my website is in my [codeadam-react-v1](https://github.com/codeadamca/codeadam-react-v1) repo and the control panel in my [codeadam-console-v1](https://github.com/codeadamca/codeadam-console-v1) repo. Each of these have README.md files.
+My own personal website is availble to view at [codeadam.ca](https://codeadam.ca). The code for my website is in my [codeadam-react-v1](https://github.com/codeadamca/codeadam-react-v1) repo and the control panel in my [codeadam-console-v1](https://github.com/codeadamca/codeadam-console-v1) repo. Each of these have README.md files.
 
 Even popular coding projects have README.md files, for examples:
 
@@ -40,7 +40,7 @@ To complete this task, follow these steps:
 2. Each README.md file should include the following:
 
    - A main heading using a #
-   - A paragraph describinbg each repo
+   - A paragraph describing each repo
 
 3. Tryin adding the following:
 

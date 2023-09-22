@@ -12,7 +12,7 @@ I have created a basic example on [My GitHub Page](https://github.com/codeadamca
 
 > Another developer has curated a list of [Awesome Profile README.md Examples](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 
-> Checkout the [GitHub Profile READMEs](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme) page for more information.
+> Checkout the [GitHub Profile README](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme) page for more information.
 
 ## Steps
 
