@@ -2,6 +2,8 @@
 
 A list of introductory tasks to be completed by students contributing the the [BrickMMO](http://brickmmo.com/) project.
 
+Added a change!
+
 > **Note**  
 > All Markdown should follow the [_readme](https://readme.codeadam.ca/) guidelines.
 
