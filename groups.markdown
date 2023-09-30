@@ -91,9 +91,9 @@ To complete this task, follow these steps:
 
 1. Create a fork of the [contributions](https://github.com/BrickMMO/contributions) repo.
 2. Clone your new repo to your computer.
-3. Create a page in the students folder. Name the page using your GitHub (or LinkedIn) username (for example `codeadamca.markdown`).
-4. Add your image to the repo. Name your image using your GitHub (or LinkedIn) username (for example `codeadamca.jopg`).
-5. Add your information to your page.
+3. Create a page in the students folder. Name the page using your GitHub username (for example `codeadamca.markdown`). Use lowercase and kebab case (for example `BetVilen_45` becomes `betvilen-45.markdown`). Copy the code from another student page as a starting point. 
+4. Add your image to the repo. Name your image using your GitHub username (for example `codeadamca.jpg`). Use the same conventions used in step 3. IMage should be exatcly 80 x 80 pixels. 
+5. Add your information to your page (GitHub, LinkedIn, portfolio, etc...). Do **not** include personal contact information like email ot phone number. 
 6. Add a table with a list of BrickMMO projects you have contributed to. At this point just include the `Tasks` project and link it to `https://tasks.brickmmo.com/`.
 7. Add your name to any class pages.
 8. Submit a pull request.
