@@ -108,7 +108,7 @@ For more details instructions, check out the README.md file in the [contribution
 
 ## Submitting this Task
 
-Once your instructor has approved your pull request, copy a link to your page and submit it to the **Groups** assignment in [Blackboard](https://learn.humber.ca/).
+Once your instructor has approved your pull request, copy a link to your forked repo and submit it to the **Groups** assignment in [Blackboard](https://learn.humber.ca/).
 
 For example, my link would be [https://contributions.brickmmo.com/faculty/codeadamca](https://contributions.brickmmo.com/faculty/codeadamca).
 
