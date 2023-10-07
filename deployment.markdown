@@ -2,7 +2,7 @@
 
 ## Deployment
 
-Great! You have learned lots of great langauges! You can build a website! But how do you deploy that website? How do we upload our website to internet?
+Great! You have learned lots of great langauges! You can build a website! But how do you deploy that website? How do we upload our website to Internet?
 
 By the end of the program you will want a professional domain name. I purchased my domain name ([codeadam.ca](https://codeadam.ca)) from [GoDaddy](https://www.godaddy.com/). And a hosting service (I use the [Google Cloud](https://cloud.google.com/)). But for now, let's deploy a website using a variety of free services.
 
