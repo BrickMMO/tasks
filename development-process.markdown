@@ -8,16 +8,22 @@ Each development company will have their own way of staying organized. These are
 
 1. You and your group will be assigned an asset to work on. This could be:
 
-    **The official BrickMMO website:**  
-    URL: [https://brickmmo.com](https://brickmmo.com)  
-    GitHub: [https://github.com/BrickMMO/website-v2](https://github.com/BrickMMO/website-v2)  
+   **The official BrickMMO website:**  
+   URL: [https://brickmmo.com](https://brickmmo.com)  
+   GitHub: [https://github.com/BrickMMO/website-v2](https://github.com/BrickMMO/website-v2)
 
-    **BrickMMO Flow (our internal project management software):**  
-    URL: [BrickMMO Flow](https://flow.brickmmo.com)  
-    GitHub: [https://github.com/BrickMMO/flow-v1](https://github.com/BrickMMO/flow-v1)  
+   **BrickMMO Flow (our internal project management software):**  
+   URL: [BrickMMO Flow](https://flow.brickmmo.com)  
+   GitHub: [https://github.com/BrickMMO/flow-v1](https://github.com/BrickMMO/flow-v1)
 
-    **The About Radio documentation:**  
-    URL: [https://brickmmo.github.io/radio-about/](https://brickmmo.github.io/radio-about/)  
-    GitHub: [https://github.com/BrickMMO/radio-about](https://github.com/BrickMMO/radio-about)  
-   
-2. You will alo be assigned a project:
+   **The About Radio documentation:**  
+   URL: [https://brickmmo.github.io/radio-about/](https://brickmmo.github.io/radio-about/)  
+   GitHub: [https://github.com/BrickMMO/radio-about](https://github.com/BrickMMO/radio-about)
+
+   Locate the repo for the assigned asset. For example, let's work on the official BrickMMO website, we will need to find the [website-v2](https://github.com/BrickMMO/website-v2) repo:
+
+   ![BrickMMO Website Repo](images/screenshot-repo.png)
+
+2. You will also be assigned a project. For example, we are working on the [Website Content](https://github.com/BrickMMO/website-v2/projects) project:
+
+   ![BrickMMO Content](images/screenshot-repo-projects.png)
