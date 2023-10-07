@@ -9,8 +9,8 @@ Each development company will have their own way of staying organized. These are
 1. You and your group will be assigned an asset to work on. This could be:
 
     a. The official BrickMMO website:  
-        URL: [https://brickmmo.com](https://brickmmo.com)  
-        GitHub: [https://github.com/BrickMMO/website-v2](https://github.com/BrickMMO/website-v2)  
+          URL: [https://brickmmo.com](https://brickmmo.com)  
+          GitHub: [https://github.com/BrickMMO/website-v2](https://github.com/BrickMMO/website-v2)  
 
     b. BrickMMO Flow (our internal project management software):  
         URL: [BrickMMO Flow](https://flow.brickmmo.com)  
