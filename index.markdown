@@ -4,7 +4,7 @@
 
 This repo stores a list of introductory tasks to be completed by students contributing the [BrickMMO](http://brickmmo.com/) project.
 
-![I Love Hat Programming](images/meme-hate-love.jpeg)
+![I Love Hate Programming](images/meme-hate-love.jpeg)
 
 For due dates please login to [BrickMMO Flow](https://flow.brickmmo.com/).
 
@@ -31,7 +31,7 @@ These tasks are to be completed in the following order:
 
 ## Programming Guidelines
 
-All [BrickMMO](https://brickmmo.com/) related projects follow [\_readme](https://readme.codeadam.ca/), [tidy](https://tidy.brickmmo.com/), and [eplus](https://eplus.codeadam.ca/) guidelines.
+All [BrickMMO](https://brickmmo.com/) related projects follow [\_readme](https://readme.codeadam.ca/), [tidy](https://tidy.codeadam.ca/), and [eplus](https://eplus.codeadam.ca/) guidelines.
 
 ---
 
