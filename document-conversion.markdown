@@ -24,13 +24,12 @@ In this task you will be assigned a PDF document or slide deck and you will conv
 
 To complete this task, follow these steps:
 
-1. Fork the repo you have been assigned and clone the repo to your computer.
-2. Convert your assigned PDF to Markdown.
-3. Submit a pull requst.
+1. You will be assigned am asset and a project.
+2. Follow the [develoment process](develpoment-process) to make and submit your changes.
 
 ## Submitting this Task
 
-Once the pull request has been approved, submit a link in the **Document Conversion** assignment in [Blackboard](https://learn.humber.ca/).
+Once the pull request has been approved, submit a link to repo in the **Document Conversion** assignment in [Blackboard](https://learn.humber.ca/).
 
 [&#10132; Back to Task List](/)
 

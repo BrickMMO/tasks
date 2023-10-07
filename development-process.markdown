@@ -54,7 +54,7 @@ Each development company will have their own way of staying organized. These are
 
 7. When you are done all of your changes, do one last `add`, `commit`, and `push`, and then proceed to the repo and submit a pull request:
 
-   ![Pull Request](images/screenshot-pull-request.png)
+   ![Pull Request](images/screenshot-pull-submit.png)
 
 [&#10132; Back to Task List](/)
 
