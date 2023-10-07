@@ -24,8 +24,9 @@ In this task you will be assigned a PDF document or slide deck and you will conv
 
 To complete this task, follow these steps:
 
-1. You will be assigned am asset and a project.
-2. Follow the [develoment process](develpoment-process) to make and submit your changes.
+1. Find your groups in [Blackboard](https://learn.humber.ca/).
+2. Complete your assigned project.
+3. Follow the [develoment process](develpoment-process) to make and submit your changes.
 
 ## Submitting this Task
 

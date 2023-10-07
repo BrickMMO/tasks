@@ -16,7 +16,8 @@ To complete this task, follow these steps:
 
 1. Find your groups in [Blackboard](https://learn.humber.ca/).
 2. Complete your assigned project.
-3. Deploy your project to the specified source (GItHub Pages, Google Cloud, Infinity Free). 
+3. Follow the [develoment process](develpoment-process) to make and submit your changes.
+4. Deploy your project to the specified source (GitHub Pages, Google Cloud, Infinity Free).
 
 ## Submitting this Task
 
