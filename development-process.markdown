@@ -20,3 +20,4 @@ Each development company will have their own way of staying organized. These are
     URL: [https://brickmmo.github.io/radio-about/](https://brickmmo.github.io/radio-about/)  
     GitHub: [https://github.com/BrickMMO/radio-about](https://github.com/BrickMMO/radio-about)  
    
+2. You will alo be assigned a project:
