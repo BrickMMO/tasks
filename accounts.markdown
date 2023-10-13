@@ -14,7 +14,7 @@ You will need many different accounts and tools during the Web Development progr
 
 ![Discord](images/logo-discord.png)
 
-[Discord](https://discord.com/) is an instant messaging social platform. Users have the ability to communicate with voice calls, video calls, text messaging, media, and files in communities called "servers". ~ Widipedia
+[Discord](https://discord.com/) is an instant messaging social platform. Users have the ability to communicate with voice calls, video calls, text messaging, media, and files in communities called "servers". ~ Wikipedia
 
 ### Stack Overflow
 
@@ -28,7 +28,7 @@ You will need many different accounts and tools during the Web Development progr
 
 ## Be Consistent
 
-Check out my online presence using my [LinkTree](https://linktr.ee/codeadamca) page. Notice the consistency! My usernames are consistent (where possible), my avatars are consistent and professional, I use the same banner on all my coding related assets ([LinkedIn](https://www.linkedin.com/in/adambenjaminthomas/), [Twitter](https://twitter.com/codeadamca)), and I try to keep the colours consistent too!
+Check out my online presence using my [LinkTree](https://linktr.ee/codeadamca) page. Notice the consistency! My usernames are consistent (where possible), my avatars are consistent and professional, I use the same banner on all my coding related assets ([LinkedIn](https://www.linkedin.com/in/adambenjaminthomas/), [Twitter](https://twitter.com/codeadamca)), and I try to keep the colors consistent too!
 
 ## Steps
 

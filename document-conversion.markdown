@@ -2,7 +2,7 @@
 
 ## Document Conversion
 
-For this task you will be contributing to the docmentation of [BrickMMO](https://brickmmo.com/).
+For this task you will be contributing to the documentation of [BrickMMO](https://brickmmo.com/).
 
 Many of the BrickMMO tasks require students to create PDF documents or slide decks:
 
@@ -26,7 +26,7 @@ To complete this task, follow these steps:
 
 1. Find your groups in [Blackboard](https://learn.humber.ca/).
 2. Complete your assigned project.
-3. Follow the [develoment process](develpoment-process) to make and submit your changes.
+3. Follow the [develoment process](development-process) to make and submit your changes.
 
 ## Submitting this Task
 

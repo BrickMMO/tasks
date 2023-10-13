@@ -1,10 +1,10 @@
 <style>@import url("//readme.codeadam.ca/readme.css");</style>
 
-## Development Proess
+## Development Process
 
 For the [Documentation](documentat-conversion) and [Project](project) task, you will need to work with the [GitHub Projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects) tool.
 
-Each development company will have their own way of staying organized. These are basic instrucitons as to how we saty organized at BrickMMO.
+Each development company will have their own way of staying organized. These are basic instructions as to how we stay organized at BrickMMO.
 
 1. You and your group will be assigned an asset to work on. This could be:
 
@@ -46,7 +46,7 @@ Each development company will have their own way of staying organized. These are
 
    ![New Branch](images/screenshot-create-branch.png)
 
-   Click on the `Create Branch` button and GitHub will create the brach for you and provide you with code to recreate and checkout the branch locally:
+   Click on the `Create Branch` button and GitHub will create the branch for you and provide you with code to recreate and checkout the branch locally:
 
    ![Copy New Branch](images/screenshot-copy-new-branch.png)
 
