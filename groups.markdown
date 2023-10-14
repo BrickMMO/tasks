@@ -5,7 +5,7 @@
 [GitHub](https://github.com/) is even more important when working in groups. It allows a groups of developers to:
 
 - Share code with group members
-- Work on the same files without overwritting changes made by other developers
+- Work on the same files without overwriting changes made by other developers
 - Revert code to a previous state if mistakes are made
 
 ## Errors
@@ -14,7 +14,7 @@ When working with Git and GitHub in groups, sometimes you will receive errors th
 
 1. If you have significant changes, make sure to save those somewhere.
 2. Delete your local copy of the project.
-3. Clone a fresh copy from the GutHub repo:
+3. Clone a fresh copy from the GitHub repo:
 
    ```sh
    git clone https://github.com/BrickMMO/tasks.git
@@ -45,13 +45,13 @@ There are better resolutions for some situations. However, this resolution has g
 
 ![Stack Overflow](images/logo-stack-overflow.png)
 
-Alternatively, you can Google your error, in which case you will likely find a resoution on [Stack Overflow](https://stackoverflow.com/). Or you can post a question to [Stack Overflow](https://stackoverflow.com/). Before you post a question, make sure you read the [How to Ask a Question](https://stackoverflow.com/help/how-to-ask) in the Stack Overtflow documentation.
+Alternatively, you can Google your error, in which case you will likely find a resolution on [Stack Overflow](https://stackoverflow.com/). Or you can post a question to [Stack Overflow](https://stackoverflow.com/). Before you post a question, make sure you read the [How to Ask a Question](https://stackoverflow.com/help/how-to-ask) in the Stack Overflow documentation.
 
 We will discuss [Stack Overflow](https://stackoverflow.com/) in more detail during the [Stack Overflow Task](stack-overflow).
 
 ## Group Development Loop
 
-There are multiple methods of working in a groups on the same GitHub repository. You can invite other developers to be contributors of the repo, there are detailed instuctions in my [github-demo-branching](https://github.com/codeadamca/github-demo-branching) repo. Or you can fork the repo and contribute by submitting Pull Requests. There are details instructions in my [github-demo-forking](https://github.com/codeadamca/github-demo-forking) repo.
+There are multiple methods of working in a groups on the same GitHub repository. You can invite other developers to be contributors of the repo, there are detailed instructions in my [github-demo-branching](https://github.com/codeadamca/github-demo-branching) repo. Or you can fork the repo and contribute by submitting Pull Requests. There are details instructions in my [github-demo-forking](https://github.com/codeadamca/github-demo-forking) repo.
 
 Here is a basic example of forking a repo:
 
@@ -92,8 +92,8 @@ To complete this task, follow these steps:
 1. Create a fork of the [contributions](https://github.com/BrickMMO/contributions) repo.
 2. Clone your new repo to your computer.
 3. Create a page in the students folder. Name the page using your GitHub username (for example `codeadamca.markdown`). Use lowercase and kebab case (for example `BetVilen_45` becomes `betvilen-45.markdown`). Copy the code from another student page as a starting point. 
-4. Add your image to the repo. Name your image using your GitHub username (for example `codeadamca.jpg`). Use the same conventions used in step 3. IMage should be exatcly 80 x 80 pixels. 
-5. Add your information to your page (GitHub, LinkedIn, portfolio, etc...). Do **not** include personal contact information like email ot phone number. 
+4. Add your image to the repo. Name your image using your GitHub username (for example `codeadamca.jpg`). Use the same conventions used in step 3. Image should be exactly 80 x 80 pixels. 
+5. Add your information to your page (GitHub, LinkedIn, portfolio, etc...). Do **not** include personal contact information like email or phone number. 
 6. Add a table with a list of BrickMMO projects you have contributed to. At this point just include the `Tasks` project and link it to `https://tasks.brickmmo.com/`.
 7. Add your name to any class pages.
 8. Submit a pull request.

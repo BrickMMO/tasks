@@ -2,13 +2,13 @@
 
 ## Deployment
 
-Great! You have learned lots of great langauges! You can build a website! But how do you deploy that website? How do we upload our website to Internet?
+Great! You have learned lots of great languages! You can build a website! But how do you deploy that website? How do we upload our website to Internet?
 
 By the end of the program you will want a professional domain name. I purchased my domain name ([codeadam.ca](https://codeadam.ca)) from [GoDaddy](https://www.godaddy.com/). And a hosting service (I use the [Google Cloud](https://cloud.google.com/)). But for now, let's deploy a website using a variety of free services.
 
 For this task you will create a basic one page website using HTML and CSS with a few details about you:
 
-You will lthen deply this website to [GitHub Pages](https://pages.github.com/) and [Infinity Free Hosting](https://www.infinityfree.com/).
+You will then deploy this website to [GitHub Pages](https://pages.github.com/) and [Infinity Free Hosting](https://www.infinityfree.com/).
 
 ### GitHub
 
@@ -19,18 +19,18 @@ GitHub has a service called [GitHub Pages](https://pages.github.com/). This allo
 By default a hosted repo will be available at `https://<HUB_USERNAME>.github.io/<REPO_NAME>/`. But you can also point a custom domain name to a repo. Here are some examples of my GitHub Pages hosted websites:
 
 - The `flow-about` repo hosted at [https://github.com/BrickMMO/flow-about](https://github.com/BrickMMO/flow-about) is available to view as a website at [https://brickmmo.github.io/flow-about/](https://brickmmo.github.io/flow-about/)
-- The `tasks` repo (this repo) is hosted at [https://github.com/BrickMMO/tasks](https://github.com/BrickMMO/tasks) is available to view at the custom dommain [https://tasks.brickmmo.com/](https://tasks.brickmmo.com/)
+- The `tasks` repo (this repo) is hosted at [https://github.com/BrickMMO/tasks](https://github.com/BrickMMO/tasks) is available to view at the custom domain [https://tasks.brickmmo.com/](https://tasks.brickmmo.com/)
 
-> You can find out more about GitHub Pag at  
+> You can find out more about GitHub Page at  
 > [https://pages.github.com/](https://pages.github.com/)
 
 There are detailed instructions on deploying an HTML website using GitHub pages in my [github-pages-deploy-html](https://github.com/codeadamca/github-pages-deploy-html) repo.
 
-For this task you will create a repo named `about-me` and deploy a basic HTML and CSS one page website with deatils about you.
+For this task you will create a repo named `about-me` and deploy a basic HTML and CSS one page website with details about you.
 
 ### Infinity Free Hosting
 
-There are many free hosting services avalable. But remember, you get what you pay for!
+There are many free hosting services available. But remember, you get what you pay for!
 
 ![Infinity Free](images/screenshot-infinity-free.png)
 
@@ -51,8 +51,8 @@ To complete this task, follow these steps:
 4. Create a basic HTML webpage about you named `index.html`.
 5. Add details about you to the `index.html` page.
 6. Connect your HTML to a CSS file names `styles.css` and add a few basic styles.
-7. Add, commit, and push your updates to yor repo.
-8. Using GitHub Pages make this webpage avialable at `https://<HUB_USERNAME>.github.io/about-me/`.
+7. Add, commit, and push your updates to your repo.
+8. Using GitHub Pages make this webpage available at `https://<HUB_USERNAME>.github.io/about-me/`.
 
    > Mine is available on GitHub Pages at  
    > [https://codeadamca.github.io/about-me/](https://codeadamca.github.io/about-me/)

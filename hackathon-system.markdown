@@ -18,7 +18,7 @@ To complete this task, follow these steps:
 
 ## Submitting this Task
 
-Only pne submission is needed per group. Submit your completed PDF **System Hackathon** assignment in [Blackboard](https://learn.humber.ca/).
+Only png submission is needed per group. Submit your completed PDF **System Hackathon** assignment in [Blackboard](https://learn.humber.ca/).
 
 [&#10132; Back to Task List](/)
 
