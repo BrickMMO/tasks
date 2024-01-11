@@ -29,6 +29,16 @@ These tasks are to be completed in the following order:
 
 These tasks are to be completed in the following order:
 
+1. [Making Media Accessible](making-media-accessible)
+2. [Project Pitch](project-pitch)
+3. [Mockups](mockups)
+4. [Documentation](documentation)
+5. [Stand Up Meetings](standup-meetings)
+6. [Docker](docker)
+7. [Firebase](firebase)
+8. [MVP](mvp)
+9. [Project Presentation](project-presentation)
+
 ## Programming Guidelines
 
 All [BrickMMO](https://brickmmo.com/) related projects follow [\_readme](https://readme.codeadam.ca/), [tidy](https://tidy.codeadam.ca/), and [eplus](https://eplus.codeadam.ca/) guidelines.
