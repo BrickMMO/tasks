@@ -38,6 +38,7 @@ These tasks are to be completed in the following order:
 7. [Firebase](firebase)
 8. [MVP](mvp)
 9. [Project Presentation](project-presentation)
+10. [Final Project](final-project)
 
 ## Programming Guidelines
 
