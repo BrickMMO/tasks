@@ -18,7 +18,7 @@ To complete this task, follow these steps:
 
 ## Submitting this Task
 
-After you have completed the online course, log into [Blackboard](https://learn.humber.ca/) and upload your certificate to the Making Media Accessible assignment.
+After you have completed the online course, log into [Blackboard](https://learn.humber.ca/) and upload a screenshot of your completed test or a copy of your certificate to the Making Media Accessible assignment.
 
 [&#10132; Back to Task List](/)
 
