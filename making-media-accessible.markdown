@@ -1,6 +1,6 @@
 <style>@import url("//readme.codeadam.ca/readme.css");</style>
 
-## Making MEdia Accessible
+## Making Media Accessible
 
 In your Blackboard account you should have a class called **Maing Media Accessible**. For this task you will complete this online asynchronous module. 
 
