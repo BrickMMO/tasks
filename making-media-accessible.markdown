@@ -1,29 +1,24 @@
 <style>@import url("//readme.codeadam.ca/readme.css");</style>
 
-## Academic Integrity
+## Making MEdia Accessible
 
-Writing code for academic purposes is similar to all academic writing in that students are required to follow similar guidelines.
+In your Blackboard account you should have a class called **Maing Media Accessible**. For this task you will complete this online asynchronous module. 
 
-However, identifying what is and what isn't academic misconduct when writing code, assisting fellow students, searching for code samples online, or utilizing online code samples can be difficult. This is because academic guidelines related to writing code will vary in each course and occasionally in each assignment. Additionally, the expectations of a programmer during academia are dramatically different than the industry.
+This course will focus on representation of disability in media, video captioning, audio transcription, described video and live captioning for broadcast, alternative text for image description, and tutorials on how to make accessible documents and presentations.
 
-Here is an April Fools joke from [Stack Overflow](https://stackoverflow.com/):
-
-![Copying Code Meme](images/meme-copying.png)
-
-This course will outline those guidelines and require you to complete an online assessment to ensure the guidelines are understood.
-
-![Academic Integrity online module](images/screenshot-academic-integrity.png)
+![Academic Integrity online module](images/screenshot-making-media-accessible.png)
 
 ## Steps
 
 To complete this task, follow these steps:
 
-1. Review the [Academic Integrity Online Module](https://academicintegrity.codeadam.ca/). 
-2. Log into [Blackboard](https://learn.humber.ca/) and complete the Academic Integrity assessment. You will need to receive a 90% or higher grade on the assessment to receive a SAT for this task (18/20). You may attempt the assessment as many times as needed. 
+1. Find the Making Media Accessible course in your [Blackboard](https://learn.humber.ca/). If you do not see the course, please email your instructor.
+2. Complete the online course [Making Media Accessible](https://mediaarts.humber.ca/accessiblemedia/making-accessible-media.html).
+3. Save a copy of the certificate to your computer. 
 
 ## Submitting this Task
 
-After you have completed the assessment with a grade of 90% or higher, your instructor will mark the task as complete. 
+After you have completed the online course, log into [Blackboard](https://learn.humber.ca/) and upload your certificate to the Making Media Accessible assignment.
 
 [&#10132; Back to Task List](/)
 
