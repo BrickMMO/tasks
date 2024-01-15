@@ -36,6 +36,13 @@ To complete this task, follow these steps:
 1. Choose either a BrickMMO (groups) or Useless Website (individual) project.
 2. Brainstorm your idea.
 3. Complete a [Pitch Document](documents/pitch-template.docx).
+
+   Download the [Pitch Document](documents/pitch-template.docx) and replace the template content with information regarding your project.
+
+   Write the pitch as if another group of programmers will be coding the project.
+
+   Include the project purpose, descriptions of front-end and back-end, and any API endpoints.
+
 4. Prepare a two minute pitch presentation to present to the class.
 
 ## Submitting this Task

@@ -4,7 +4,7 @@
 
 Before you start coding your [BrickMMO](https://brickmmo.com/) or [Useless Web](https://theuselessweb.com/) project, you will be required to create a mockup using Figma, Adobe XD, Photoshop, or your program of choice.
 
-Include each possible page, including admin pages if required.
+Your mockup should include each possible page (including admin pages if they exist). Include a descirption of any animations and/or interactivity.
 
 During a drop-in session review the mockups with your instructor.
 
