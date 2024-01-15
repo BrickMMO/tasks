@@ -22,7 +22,7 @@ In a group of one to three students you can worm on one of the proposed projects
 
 ### Useless Website
 
-Or you can create a [Useless Website](https://theuselessweb.com/) as an individual. Try to come up with an idea that is quirky but somewhat related to the Web Development inductry.
+Or you can create a [Useless Website](https://theuselessweb.com/) as an individual. Try to come up with an idea that is quirky but somewhat related to the Web Development industry.
 
 If done correctly this can make a great portfolio piece. I would recommend aiming for something like one of the following Useless Websites:
 
@@ -47,7 +47,7 @@ To complete this task, follow these steps:
 
 ## Submitting this Task
 
-Submit a PDF copy of your pitch and your clide deck to the **Project Pitch** assignment in [Blackboard](https://learn.humber.ca/). You will also have two mintes to present your pitch to the class.
+Submit a PDF copy of your pitch and your slide deck to the **Project Pitch** assignment in [Blackboard](https://learn.humber.ca/). You will also have two minutes to present your pitch to the class.
 
 [&#10132; Back to Task List](/)
 
