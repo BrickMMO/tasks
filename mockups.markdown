@@ -2,7 +2,11 @@
 
 ## Mockups
 
-Before you start coding your [BrickMMO](https://brickmmo.com/) or [Useless Web](https://theuselessweb.com/) project, you will be required to create a mockup using Figma, Adobe XD, Photoshop, or your program of choice. 
+Before you start coding your [BrickMMO](https://brickmmo.com/) or [Useless Web](https://theuselessweb.com/) project, you will be required to create a mockup using Figma, Adobe XD, Photoshop, or your program of choice.
+
+Include each possible page, including admin pages if required.
+
+During a drop-in session review the mockups with your instructor.
 
 ## Steps
 
@@ -10,7 +14,8 @@ To complete this task, follow these steps:
 
 1. I would recommned starting with paper and a pen. Draw some mockups.
 2. Create your mockups using your program of choice (Figma, Adobe XD, Photoshop, etc...).
-3. Submit your completed mockup as a PDF or a link.
+3. During a drop-in session review the mockups with your instructor.
+4. Submit your completed mockup as a PDF or a link.
 
 ## Submitting this Task
 
