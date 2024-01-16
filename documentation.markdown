@@ -6,7 +6,7 @@ Part of this project will require that you create some documentation for your [B
 
 ## BrickMMO
 
-> **Note**  
+> [!NOTE]    
 > If you are completing a BrickMMO related project you will need to work with your instructor to make sure the right BrickMMO GitHub repositories exist. You will need one for the projecet and one for the About Website. These may or may not yet exist.
 
 All [BrickMMO](https://brickmmo.com/) projects include documentation using an [About Website](https://github.com/BrickMMO/template-about-markdown). These websites track what work was done during each version and who contributed. These pages can be linked to in student portfolios to document their contribtions.
