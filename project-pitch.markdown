@@ -4,11 +4,11 @@
 
 For this assignment you will choose your project topic and pitch the idea to the class.
 
-The final project can either be a BrickMMO project or a [Useless Website](https://theuselessweb.com/).
+The final project can either be a [BrickMMO](https://brickmmo.com/) project or a [Useless Website](https://theuselessweb.com/).
 
 ### BrickMMO Project
 
-In a group of one to three students you can worm on one of the proposed projects or propose your own idea. Current proposed ideas include:
+In a group of one to three students you can work on one of the proposed projects or propose your own idea. Current proposed ideas include:
 
 - Bricker (BrickMMO Twitter)
 - Events
@@ -19,10 +19,11 @@ In a group of one to three students you can worm on one of the proposed projects
 - Website
 - Brickcoin
 - Panel
+- News
 
 ### Useless Website
 
-Or you can create a [Useless Website](https://theuselessweb.com/) as an individual. Try to come up with an idea that is quirky but somewhat related to the Web Development inductry.
+Or you can create a [Useless Website](https://theuselessweb.com/) as an individual. Try to come up with an idea that is quirky but somewhat related to the Web Development industry.
 
 If done correctly this can make a great portfolio piece. I would recommend aiming for something like one of the following Useless Websites:
 
@@ -47,7 +48,7 @@ To complete this task, follow these steps:
 
 ## Submitting this Task
 
-Submit a PDF copy of your pitch and your clide deck to the **Project Pitch** assignment in [Blackboard](https://learn.humber.ca/). You will also have two mintes to present your pitch to the class.
+Submit a PDF copy of your pitch and your slide deck to the **Project Pitch** assignment in [Blackboard](https://learn.humber.ca/). You will also have two minutes to present your pitch to the class.
 
 [&#10132; Back to Task List](/)
 
