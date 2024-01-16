@@ -4,11 +4,11 @@
 
 For this assignment you will choose your project topic and pitch the idea to the class.
 
-The final project can either be a BrickMMO project or a [Useless Website](https://theuselessweb.com/).
+The final project can either be a [BrickMMO](https://brickmmo.com/) project or a [Useless Website](https://theuselessweb.com/).
 
 ### BrickMMO Project
 
-In a group of one to three students you can worm on one of the proposed projects or propose your own idea. Current proposed ideas include:
+In a group of one to three students you can work on one of the proposed projects or propose your own idea. Current proposed ideas include:
 
 - Bricker (BrickMMO Twitter)
 - Events
@@ -19,6 +19,7 @@ In a group of one to three students you can worm on one of the proposed projects
 - Website
 - Brickcoin
 - Panel
+- News
 
 ### Useless Website
 
