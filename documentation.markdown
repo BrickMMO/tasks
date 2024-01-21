@@ -34,7 +34,7 @@ Depending on your project, the instructions will include one of the following:
    - Modify the version description on the version page to include your new feature.
    - Add any new contributors.
   
-There is a project in the [BrickMMO](https://github.com/BrickMMO) GitHub account with a project named `Documentation <SEMESTER> <YEAR>`, for example `Documentation Winter 2024`. Create a new item within this project named `Documentation for <PROJECT_NAME>-<VERSION>`, for example `Documentation for website-v3`. 
+There is a project in the [BrickMMO](https://github.com/BrickMMO) GitHub account with a project named `Documentation <SEMESTER> <YEAR>`, for example `Documentation Winter 2024`. Create a new item within this project named `Documentation for <PROJECT_NAME>-<VERSION>`, for example `Documentation for website-v3`. Put the instructions inside this new item. 
 
 Also reach out to your instructor if you need any repos created fo either the project, or the about website.
 
