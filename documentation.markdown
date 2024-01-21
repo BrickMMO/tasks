@@ -2,18 +2,18 @@
 
 ## Documentation
 
-Part of this project will require that you create some documentation for your [BrickMMO](https://brickmmo.com/) project or [Useless Web](https://theuselessweb.com/) contribution.
+Part of this project will require that you create (or provide instructions for creating) some documentation for your [BrickMMO](https://brickmmo.com/) project or [Useless Web](https://theuselessweb.com/) contribution.
 
 ## BrickMMO
 
-> [!NOTE]    
-> If you are completing a BrickMMO related project you will need to work with your instructor to make sure the right BrickMMO GitHub repositories exist. You will need one for the projecet and one for the About Website. These may or may not yet exist.
+> [!NOTE]  
+> If you are completing a BrickMMO related project you **NOT** be creating the actual documentaion. You will be providing instructions and content for first semester students to complete your documentation.
 
 All [BrickMMO](https://brickmmo.com/) projects include documentation using an [About Website](https://github.com/BrickMMO/template-about-markdown). These websites track what work was done during each version and who contributed. These pages can be linked to in student portfolios to document their contribtions.
 
-Using the [about-template-markdown](https://github.com/BrickMMO/template-about-markdown) and [flow-about](https://github.com/BrickMMO/flow-about) as a guide, complete the documentation for your project.
+Using the [about-template-markdown](https://github.com/BrickMMO/template-about-markdown) and [flow-about](https://github.com/BrickMMO/flow-about) as a guide, create the content and instructions for first semester students to complete the documentation for your project.
 
-Depending on your project, the additions to the About Website maye be on of teh following:
+Depending on your project, the instructions will include one of the following:
 
 1. For a brand new project, you will need to create a new About Website. You may need to have your instructor make a new repository in the BrickMMO organization. You will need to complete these tasks:
 
@@ -33,6 +33,10 @@ Depending on your project, the additions to the About Website maye be on of teh 
 
    - Modify the version description on the version page to include your new feature.
    - Add any new contributors.
+  
+There is a project in the [BrickMMO](https://github.com/BrickMMO) GitHub account with a project named `Documentation <SEMESTER> <YEAR>`, for example `Documentation Winter 2024`. Create a new item within this project named `Documentation for <PROJECT_NAME>-<VERSION>`, for example `Documentation for website-v3`. 
+
+Also reach out to your instructor if you need any repos created fo either the project, or the about website.
 
 ## Useless Web
 
