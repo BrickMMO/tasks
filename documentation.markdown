@@ -9,7 +9,7 @@ Part of this project will require that you create (or provide instructions for c
 > [!NOTE]  
 > If you are completing a BrickMMO related project you **NOT** be creating the actual documentaion. You will be providing instructions and content for first semester students to complete your documentation.
 
-All [BrickMMO](https://brickmmo.com/) projects include documentation using an [About Website](https://github.com/BrickMMO/template-about-markdown). These websites track what work was done during each version and who contributed. These pages can be linked to in student portfolios to document their contribtions.
+All [BrickMMO](https://brickmmo.com/) projects include documentation using an [About Website](https://github.com/BrickMMO/template-about-markdown). These websites track what work was done during each version and who contributed. These pages can be linked to in student portfolios to document their contributions.
 
 Using the [about-template-markdown](https://github.com/BrickMMO/template-about-markdown) and [flow-about](https://github.com/BrickMMO/flow-about) as a guide, create the content and instructions for first semester students to complete the documentation for your project.
 
@@ -33,8 +33,8 @@ Depending on your project, the instructions will include one of the following:
 
    - Modify the version description on the version page to include your new feature.
    - Add any new contributors.
-  
-There is a project in the [BrickMMO](https://github.com/BrickMMO) GitHub account with a project named `Documentation <SEMESTER> <YEAR>`, for example `Documentation Winter 2024`. Create a new item within this project named `Documentation for <PROJECT_NAME>-<VERSION>`, for example `Documentation for website-v3`. Put the instructions inside this new item. 
+
+There is a project in the [BrickMMO](https://github.com/BrickMMO) GitHub account with a project named `Documentation <SEMESTER> <YEAR>`, for example `Documentation Winter 2024`. Create a new item within this project named `Documentation for <PROJECT_NAME>-<VERSION>`, for example `Documentation for website-v3`. Put the instructions inside this new item.
 
 Also reach out to your instructor if you need any repos created for either the project, or the about website.
 
