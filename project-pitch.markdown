@@ -30,7 +30,7 @@ If done correctly this can make a great portfolio piece. I would recommend aimin
 - [Passive Aggressive Password Machine](https://trypap.com/)
 - [Koalas to the Max](https://www.koalastothemax.com/)
 
-> From time to time I will deconstruct a website, here is a deconstructino of Koalas to the Max:
+> From time to time I will deconstruct a website, here is a deconstruction of Koalas to the Max:
 > https://github.com/codeadamca/deconstruction-koalastothemax
 
 ## Steps
