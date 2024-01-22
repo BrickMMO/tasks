@@ -7,7 +7,7 @@ Part of this project will require that you create (or provide instructions for c
 ## BrickMMO
 
 > [!NOTE]  
-> If you are completing a BrickMMO related project you **NOT** be creating the actual documentaion. You will be providing instructions and content for first semester students to complete your documentation.
+> If you are completing a BrickMMO related project you **NOT** be creating the actual documentation. You will be providing instructions and content for first semester students to complete your documentation.
 
 All [BrickMMO](https://brickmmo.com/) projects include documentation using an [About Website](https://github.com/BrickMMO/template-about-markdown). These websites track what work was done during each version and who contributed. These pages can be linked to in student portfolios to document their contributions.
 
@@ -26,7 +26,7 @@ Depending on your project, the instructions will include one of the following:
 2. For a new version of an existing application you will need to add a new page for the new version and add the appropriate link on the About Website home page.
 
    - Create a new page for the new version.
-   - Add a description of the new version and a list of contributores.
+   - Add a description of the new version and a list of contributors.
    - Add a link on the home page to the new version page.
 
 3. If you are simply adding a new feature to an existing version, you will only need to modify the existing version page.
