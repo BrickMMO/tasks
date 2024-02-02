@@ -2,6 +2,10 @@
 
 ## Standup Meetings
 
+For this task you will participate in five standup meetings during the semester.
+
+![Standup vs. Coding](images/meme-standup.png)
+
 [&#10132; Back to Task List](/)
 
 ---
