@@ -30,7 +30,7 @@ To complete this task, follow these steps:
 
 ## Submitting this Task
 
-Once the pull request has been approved, submit a link to repo in the **Document Conversion** assignment in [Blackboard](https://learn.humber.ca/).
+Once the pull request has been approved, submit a link to repo, branch, or pull request in the **Document Conversion** assignment in [Blackboard](https://learn.humber.ca/).
 
 [&#10132; Back to Task List](/)
 
