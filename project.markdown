@@ -7,6 +7,7 @@ For this assignment you will work in groups and you will choose a BrickMMO Markd
 1. Log in to Blackboard.
 2. Choose a group to join (do not go over the student limit).
 3. Review the project or task link in the group description.
+4. Email your instructor the names of the students in your group, and the top three projects you would like to work on (they will be assigned on a first come basis).
 
 ## Steps
 
