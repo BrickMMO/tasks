@@ -2,13 +2,11 @@
 
 ## Project
 
-For this assignment you will work in groups and you will choose one of the following:
+For this assignment you will work in groups and you will choose a BrickMMO Markdown project to complete. To choose your project:
 
-- [Pseudocode](https://pseudocodecodeadam.ca)
-- [Flow](https://flow.brickmmo.com/)
-- Units
-- Colors
-- Branding
+1. Log in to Blackboard.
+2. Choose a group to join (do not go over the student limit).
+3. Review the project or task link in the group description.
 
 ## Steps
 
