@@ -21,7 +21,7 @@ To complete this task, follow these steps:
 
 ## Submitting this Task
 
-After you have completed your Docker configuration, take a screenshot of your Docker configuration and submit it in the **Docker** assignment in [Blackboard](https://learn.humber.ca/).
+After you have completed your Docker configuration, take a screenshot of your Docker configuration and submit it in the **Docker** assignment in [Blackboard](https://learn.humber.ca/).g
 
 [&#10132; Back to Task List](/)
 
