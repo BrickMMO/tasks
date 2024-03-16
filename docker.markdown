@@ -16,6 +16,8 @@ To complete this task, follow these steps:
 4. Finally setup phpmyadmin, I would recommend using the [latest](https://hub.docker.com/layers/library/phpmyadmin/latest/images/sha256-687c0abcc3bb2b813fb6a033cf6a1d1df61ae61d21628e6074856553e02b9582?context=explore) image.
 5. Get all three images working together to display database content in a web page using PHP.
 
+   ![Docker Setup](images/screenshot-docker.png)
+
 > Note: You can use my YouTube video as a guide: [Setting up a LAMP Stack from Scratch using Docker
 > ](https://www.youtube.com/watch?v=zWyggxV51oQ&t=134s).
 
