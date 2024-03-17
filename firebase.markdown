@@ -21,15 +21,23 @@ To complete this task, follow these steps:
 
 4. Click `Create Database`, the default location is fine, so click `Next`. Choose `Start in test mode` and click `Enable`. You database has now been created.
 
-   ![Comments Data](images/screenshot-firebase-data.png)
-
 5. In the `Data` tabs, add the following data:
+
+   ![Comments Data](images/screenshot-firebase-data.png)
 
 > Note: The web interface for adding and editing data can take a little getting used to!
 
+6. Click the `Rules` tab and confirm that your rules are wide open:
+
+   ![Firebase Realtime Database rules](images/screenshot-firebase-rules.png)
+
+> Note: Do not leave your rules wide open once your project is ready to go live. These rules allow anyone to view and make changes to your Realtime Database.
+
+7. Using the [Firebase Documentation](https://firebase.google.com/docs/database) and the [firebase-realtime-database](https://github.com/codeadamca/firebase-realtime-) and [firebase-sandbox](https://github.com/codeadamca/firebase-sandbox), display the list of comments from the Reattime Database in an HTML document.
+
 ## Submitting this Task
 
-After you have completed your Firebase tast, upload a screenshot or a working URL to the **Firebase** assignment in [Blackboard](https://learn.humber.ca/).g
+After you have completed your Firebase task, upload a screenshot or a working URL to the **Firebase** assignment in [Blackboard](https://learn.humber.ca/).g
 
 [&#10132; Back to Task List](/)
 
