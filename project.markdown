@@ -5,9 +5,10 @@
 For this assignment you will work in groups and you will choose a BrickMMO Markdown project to complete. To choose your project:
 
 1. Log in to Blackboard.
-2. Choose a group to join (do not go over the student limit).
-3. Review the project or task link in the group description.
-4. Email your instructor the names of the students in your group, and the top three projects you would like to work on (they will be assigned on a first come basis).
+2. Make a group of three to four.
+3. Choose a group to join (do not go over the student limit).
+4. Review the project or task link in the group description.
+5. Email your instructor the names of the students in your group, and the tasks you would like to work on (they will be assigned on a first come basis, include a backup option just in case).
 
 ## Steps
 
