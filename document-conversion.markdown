@@ -26,7 +26,7 @@ To complete this task, follow these steps:
 
 1. Find your groups in [Blackboard](https://learn.humber.ca/).
 2. Complete your assigned project.
-3. Follow the [develoment process](development-process) to make and submit your changes.
+3. Follow the [development process](development-process) to make and submit your changes.
 
 ## Submitting this Task
 

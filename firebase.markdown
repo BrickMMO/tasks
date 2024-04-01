@@ -33,7 +33,7 @@ To complete this task, follow these steps:
 
 > Note: Do not leave your rules wide open once your project is ready to go live. These rules allow anyone to view and make changes to your Realtime Database.
 
-7. Using the [Firebase Documentation](https://firebase.google.com/docs/database) and the [firebase-realtime-database](https://github.com/codeadamca/firebase-realtime-) and [firebase-sandbox](https://github.com/codeadamca/firebase-sandbox), display the list of comments from the Reattime Database in an HTML document.
+7. Using the [Firebase Documentation](https://firebase.google.com/docs/database) and the [firebase-realtime-database](https://github.com/codeadamca/firebase-realtime-) and [firebase-sandbox](https://github.com/codeadamca/firebase-sandbox), display the list of comments from the Realtime Database in an HTML document.
 
 ## Submitting this Task
 
