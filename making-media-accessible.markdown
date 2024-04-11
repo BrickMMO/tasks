@@ -2,7 +2,7 @@
 
 ## Making Media Accessible
 
-In your Blackboard account you should have a class called **Maing Media Accessible**. For this task you will complete this online asynchronous module. 
+In your Blackboard account you should have a class called **Making Media Accessible**. For this task you will complete this online asynchronous module. 
 
 This course will focus on representation of disability in media, video captioning, audio transcription, described video and live captioning for broadcast, alternative text for image description, and tutorials on how to make accessible documents and presentations.
 
