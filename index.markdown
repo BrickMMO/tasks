@@ -33,11 +33,10 @@ These tasks are to be completed in the following order:
 2. [Stand Up Meetings #1 and #2](standup-meetings)
 3. [Project Pitch](project-pitch)
 4. [Mockups](mockups)
-5. [Documentation](documentation)
-6. [Docker](docker)
-7. [Firebase](firebase)
-8. [Project Presentation](project-presentation)
-9. [Final Project](final-project)
+5. [Docker](docker)
+6. [Firebase](firebase)
+7. [Project Presentation](project-presentation)
+8. [Final Project](final-project)
 
 ## Programming Guidelines
 
