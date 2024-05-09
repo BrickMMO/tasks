@@ -30,15 +30,14 @@ These tasks are to be completed in the following order:
 These tasks are to be completed in the following order:
 
 1. [Making Media Accessible](making-media-accessible)
-2. [Project Pitch](project-pitch)
-3. [Mockups](mockups)
-4. [Documentation](documentation)
-5. [Stand Up Meetings](standup-meetings)
+2. [Stand Up Meetings #1 and #2](standup-meetings)
+3. [Project Pitch](project-pitch)
+4. [Mockups](mockups)
+5. [Documentation](documentation)
 6. [Docker](docker)
 7. [Firebase](firebase)
-8. [MVP](mvp)
-9. [Project Presentation](project-presentation)
-10. [Final Project](final-project)
+8. [Project Presentation](project-presentation)
+9. [Final Project](final-project)
 
 ## Programming Guidelines
 
