@@ -4,6 +4,8 @@
 
 For this assignment you will choose you will submit a working URL to your project.
 
+![Deployment](images/meme-deployment.png)
+
 ## Steps
 
 Deploy your project using a service like [GitHub Pages](https://pages.github.com/), [Infinity Free](https://www.infinityfree.com/), [Vercel](https://vercel.com/), [Google Cloud](https://cloud.google.com/). 
