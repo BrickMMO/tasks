@@ -2,7 +2,7 @@
 
 ## Accounts
 
-You will need many different accounts and tools during the Web Development program. In this course you will need a [GitHub](https://github.com/), [Discord](https://discord.com/), and [BrickMMO Flow](https://flow.brickmmo.com/) account.
+You will need many different accounts and tools during the Web Development program. In this course you will need a [GitHub](https://github.com/), and [Discord](https://discord.com/) account.
 
 ### GitHub
 
@@ -21,10 +21,6 @@ You will need many different accounts and tools during the Web Development progr
 ![Discord](images/logo-stack-overflow.png)
 
 [Stack Overflow](https://stackoverflow.com/) Stack Overflow is a question-and-answer website for programmers. ~ Wikipedia
-
-### BrickMMO Flow
-
-[BrickMMO Flow](https://flow.brickmmo.com/) is a basic project management platform used to track your [BrickMMO](https://brickmmo.com/) tasks. To login for the first time use your `@humber` email and `password`. 
 
 ## Be Consistent
 
@@ -89,20 +85,7 @@ To complete this task, follow these steps:
 
    ![GitHub Avatar](images/screenshot-stackoverflow-url.png)
 
-5. Login to the [BrickMMO Flow](https://flow.brickmmo.com/) application and complete your profile. Your starting email is your personal email you provided Humber when registering, and your default password is `password`.
-
-   Make sure to include the following information:
-
-   - First and Last Name
-   - Email Address
-   - GitHub and LinkedIn usernames (for example, mine are `codeadamca` and `adambenjaminthomas`)
-   - Change your password
-  
-   Once you have logged in, navigate to the `Skills` page, and update your comfort levels for each skill. 
-
-   You should also soon be able to mark the [Academic Integrity](academic-integrity) and [Accounts](accounts) tasks as complete!
-
-6. Log in to Blackboard and post a link to your GitHub and Stack Overflow accounts in the `accounts` message board.
+5. Log in to Blackboard and post a link to your GitHub and Stack Overflow accounts in the `accounts` message board.
 
 ## Submitting this Task
 
