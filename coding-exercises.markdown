@@ -13,7 +13,7 @@ During this course we will participate in **Coding from Scratch** exercises. The
 
 To complete this task, follow these steps:
 
-1. In class (or following a recording) complete the Coding from Scratch exercises.
+1. In class (or following a class recording) complete the Coding from Scratch exercises.
 2. Deplpoy the exercises to GitHub Pages or a hosting service (Infinity Free).
 
 ## Submitting this Task
