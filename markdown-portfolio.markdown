@@ -34,7 +34,7 @@ To complete this task, follow these steps:
 
 ## Submitting this Task
 
-After you have completed your Markdown Portfolio submit your GitHb Pages URL in the **Markdown Portfolio** assignment in [Blackboard](https://learn.humber.ca/).g
+After you have completed your Markdown Portfolio submit your GitHb Pages URL in the **Markdown Portfolio** assignment in [Blackboard](https://learn.humber.ca/).
 
 [&#10132; Back to Task List](/)
 
