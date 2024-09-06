@@ -20,7 +20,7 @@ You will likely code a few portfolios while you are completing this program. Thi
 Here are a few BrickMMO websites that use Markdown. These will give you an idea as to what is possible using Markdown. ou can also view their public GitHub repos to view their code.
 
 [<img src="images/screenshot-tidy.png" width="300">](https://github.com/BrickMMO/tidy)
-[<img src="images/screenshot-brickmmo-bran ding.png" width="300">](https://github.com/BrickMMO/branding)
+[<img src="images/screenshot-brickmmo-branding.png" width="300">](https://github.com/BrickMMO/branding)
 
 ## Steps
 
