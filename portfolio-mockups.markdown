@@ -6,7 +6,7 @@ Before you start coding your portfolio, you will be required to create a mockup 
 
 Your mockup should include each possible page (including home, about, projects, contact, and any other pages). Include a description of any animations and/or interactivity.
 
-During a drop-in session review the mockups with your instructor.
+During a class review the mockups with your instructor or fellow students.
 
 ## Steps
 
