@@ -32,8 +32,8 @@ I have a series of images I use for all my professional online assets and a diff
 To complete this task, follow these steps:
 
 1. Design a brand for your online presence. 
-2. Create a profile and/or banner images.
-3. Determine which online assets will be ustilized for your onine presence. I use my portfolio, LinkedIn, YouTube, GitHub and Instgram.
+2. Create profile and/or banner images.
+3. Determine which online assets will be utilized for your online presence. I use my portfolio, LinkedIn, YouTube, GitHub and Instgram.
 4. Apply brand to all online assets. 
 
 ## Submitting this Task
