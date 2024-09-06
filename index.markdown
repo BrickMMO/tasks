@@ -17,13 +17,13 @@ These tasks are to be completed in the following order:
 3. [GitHub for Individuals](individuals)
 4. [README.md Files](readme-files)
 5. [Profile README.md](profile-readme)
-6. [GitHub for Groups](groups)
-7. [Set Hackathon](hackathon-set)
-8. [Document Conversion](document-conversion)
-9. [Deployment](deployment)
-10. [System Hackathon](hackathon-system)
-11. [Stack Overflow](stack-overflow)
-12. [Project](project)
+6. [Markdown Portfolio](markdown-portfolio)
+7. [GitHub for Groups](groups)
+8. [Deployment](deployment)
+9. [Stack Overflow](stack-overflow)
+10. [Coding from Scratch Exercises](coding-exercises)
+11. [Markdown Website](markdown-website)
+12. [Digital Presence](digital-presence)
 
 ## Phase Two
 
