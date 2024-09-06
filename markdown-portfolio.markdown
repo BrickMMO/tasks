@@ -8,30 +8,33 @@ Your portflio may be the most important asset when you start your internship and
 
 Along with my digital presence:
 
-[!<img src="images/screenshot-codeadam.png" width="150">](https://codeadam.ca)
-[!<img src="images/screenshot-codeadam.png" width="150">](https://codeadam.ca)
-[!<img src="images/screenshot-codeadam.png" width="150">](https://codeadam.ca)
-[!<img src="images/screenshot-codeadam.png" width="150">](https://codeadam.ca)
+[<img src="images/screenshot-linkedin.png" width="150">](https://www.linkedin.com/in/adambenjaminthomas/)
+[<img src="images/screenshot-youtube.png" width="150">](https://www.youtube.com/@codeadamca)
+[<img src="images/screenshot-github.png" width="150">](https://github.com/codeadamca)
+[<img src="images/screenshot-instagram.png" width="150">](https://www.instagram.com/codeadamca/)
 
+You will likely code a few portfolios while you are completing this program. This first one will be coded using only Markdown. It will give you a chance to focus on your portfolio content. Write short to-the-point content, create consistent high quality images, and collect your online digital assets. 
+
+## Markdown Examples
+
+Here are a few BrickMMO websites that use Markdown. These will give you an idea as to what is possible using Markdown. ou can also view their public GitHub repos to view their code.
+
+[<img src="images/screenshot-tidy.png" width="300">](https://github.com/BrickMMO/tidy)
+[<img src="images/screenshot-brickmmo-bran ding.png" width="300">](https://github.com/BrickMMO/branding)
 
 ## Steps
 
 To complete this task, follow these steps:
 
-1. Install [Docker]() on your computer.
-2. Setup a basic LAMP stack. I would recommend the following using the [8.3.4-apache](https://hub.docker.com/layers/library/php/8.3.4-apache/images/sha256-f83c7e0de36dea6fbd6885dea315b312e340d91017b5d4cfb3626b6c9ede3092) image.
-3. Next install MySQL. I would recommend using the [latest](https://hub.docker.com/layers/library/mysql/latest/images/sha256-eeabfa5cd6a2091bf35eb9eae6ae48aab8231fd760f5a61cd0129df454333b1d) image.
-4. Finally setup phpmyadmin, I would recommend using the [latest](https://hub.docker.com/layers/library/phpmyadmin/latest/images/sha256-687c0abcc3bb2b813fb6a033cf6a1d1df61ae61d21628e6074856553e02b9582?context=explore) image.
-5. Get all three images working together to display database content in a web page using PHP.
-
-   ![Docker Setup](images/screenshot-docker.png)
-
-> Note: You can use my YouTube video as a guide: [Setting up a LAMP Stack from Scratch using Docker
-> ](https://www.youtube.com/watch?v=zWyggxV51oQ&t=134s).
+1. Create a repo for your Markdown Portfolio. 
+2. Collect content for a home page, projects page, and contact page. At this point only use your online digial assets on the contact page (no phone number or email addess).
+3. Create a Markdown file in your repo for each page. Name the home page `index.markdown`.
+4. Link all the pages together.
+5. Turn on GitHub Pages.
 
 ## Submitting this Task
 
-After you have completed your Docker configuration, take a screenshot of your Docker configuration and submit it in the **Docker** assignment in [Blackboard](https://learn.humber.ca/).g
+After you have completed your Markdown Portfolio submit your GitHb Pages URL it in the **Markdown Portfolio** assignment in [Blackboard](https://learn.humber.ca/).g
 
 [&#10132; Back to Task List](/)
 
