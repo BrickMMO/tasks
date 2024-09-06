@@ -30,7 +30,7 @@ To complete this task, follow these steps:
 2. Collect content for a home page (about), projects page, and contact page. At this point only use your online digial assets on the contact page (no phone number or email addess).
 3. Create a Markdown file in your repo for each page. Name the home page `index.markdown`.
 4. Link all the pages together.
-5. Turn on GitHub Pages.
+5. Deploy using [GitHub Pages](https://pages.github.com/).
 
 ## Submitting this Task
 
