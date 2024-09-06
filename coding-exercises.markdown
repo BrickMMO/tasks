@@ -1,44 +1,24 @@
 <style>@import url("//readme.codeadam.ca/readme.css");</style>
 
-## Digital Presence
+## Coding Exercises
 
-Your digital presence may play an important role when you start your internship and job hunt. I have attempted to set a good example and keep my online presence up to date and consistent:
+During this course we will participate in **Coding from Scratch** exercises. These exercises will require you to code a simple common task using vanilla JavaScript. The plan for this semester is to code the following concepts:
 
-[<img src="images/screenshot-linkedin.png" width="150">](https://www.linkedin.com/in/adambenjaminthomas/)
-[<img src="images/screenshot-youtube.png" width="150">](https://www.youtube.com/@codeadamca)
-[<img src="images/screenshot-github.png" width="150">](https://github.com/codeadamca)
-[<img src="images/screenshot-instagram.png" width="150">](https://www.instagram.com/codeadamca/)
-
-I also aim to keep some consistencey between my digital presence and my online portfolio:
-
-[![CodeAdam](images/screenshot-codeadam.png)](https://codeadam.ca)
-
-Consider the following when designing your online presence:
-
-1. Domain Name (codeadam.ca) and Account Names (codeadamca)
-2. You Name (your name, a nickname, business name, etc...)
-3. Brand (logo, colours, etc...)
-
-Here are the images I use for my onilne presence:
-
-<img src="images/presence-banner.jpeg" height="200">
-
-<img src="images/presence-logo.png" height="200"> <img src="images/presence-profile.jpg" height="200">
-
-I have a series of images I use for all my professional online assets and a different series for all my personal assets. 
+1. Accordion
+2. Monty Hall
+3. Contact Form
+4. API Integration
 
 ## Steps
 
 To complete this task, follow these steps:
 
-1. Design a brand for your online presence. 
-2. Create profile and/or banner images.
-3. Determine which online assets will be utilized for your online presence. I use my portfolio, LinkedIn, YouTube, GitHub and Instgram.
-4. Apply brand to all online assets. 
+1. In class (or following a recording) complete the Coding from Scratch exercises.
+2. Deplpoy the exercises to GitHub Pages or a hosting service (Infinity Free).
 
 ## Submitting this Task
 
-After you have completed your Markdown Portfolio submit your GitHb Pages URL in the **Markdown Portfolio** assignment in [Blackboard](https://learn.humber.ca/).
+After you have completed all four coding from scratch exercises, submit four URLs to deployed copies of the code in the **Coding from Scratch** assignment in [Blackboard](https://learn.humber.ca/).
 
 [&#10132; Back to Task List](/)
 
