@@ -2,7 +2,7 @@
 
 ## Digital Presence
 
-Your digital presence may play an important role when you start your internship and job hunt. I have attempted to set a good example and keep my lone presence:
+Your digital presence may play an important role when you start your internship and job hunt. I have attempted to set a good example and keep my online presence up to date and consistent:
 
 [<img src="images/screenshot-linkedin.png" width="150">](https://www.linkedin.com/in/adambenjaminthomas/)
 [<img src="images/screenshot-youtube.png" width="150">](https://www.youtube.com/@codeadamca)
