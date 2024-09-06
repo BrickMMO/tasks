@@ -17,7 +17,7 @@ You will likely code a few portfolios while you are completing this program. Thi
 
 ## Markdown Examples
 
-Here are a few BrickMMO websites that use Markdown. These will give you an idea as to what is possible using Markdown. ou can also view their public GitHub repos to view their code.
+Here are a few BrickMMO websites that use Markdown. These will give you an idea as to what is possible using Markdown. You can also view their public GitHub repos to view their code.
 
 [<img src="images/screenshot-tidy.png" width="300">](https://github.com/BrickMMO/tidy)
 [<img src="images/screenshot-brickmmo-branding.png" width="300">](https://github.com/BrickMMO/branding)
