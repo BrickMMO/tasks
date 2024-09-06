@@ -2,7 +2,7 @@
 
 ## Markdown Portfolio
 
-Your portflio may be the most important asset when you start your internship and job hunt. I have attempted to set a good example regardig portfolio:
+Your portflio may be the most important asset when you start your internship and job hunt. I have attempted to set a good example and keep my portfolio quite current:
 
 [![CodeAdam](images/screenshot-codeadam.png)](https://codeadam.ca)
 
