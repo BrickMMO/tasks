@@ -30,8 +30,8 @@ These tasks are to be completed in the following order:
 These tasks are to be completed in the following order:
 
 1. [Making Media Accessible](making-media-accessible)
-2. [Stand Up Meetings #1 and #2](standup-meetings)
-3. [Project Pitch](project-pitch)
+2. [Project Pitch](project-pitch)
+3. [Stand Up Meetings](standup-meetings)
 4. [Mockups](mockups)
 5. [Docker](docker)
 6. [Firebase](firebase)
