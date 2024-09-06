@@ -1,10 +1,10 @@
 <style>@import url("//readme.codeadam.ca/readme.css");</style>
 
-## Docker
+## Markdown Portfolio
 
-Docker is a set of platform as a service products that use OS-level virtualization to deliver software in packages called containers. The service has both free and premium tiers. The software that hosts the containers is called Docker Engine.
+Your portflio may be the most important asset when you start your internship and job hunt. I have attempted to set a good example regardig portfolio:
 
-> <small>Wikipedia (n.d.). Docker. Retrieved March 15, 2024, from [https://en.wikipedia.org/wiki/Docker\_(software)](<https://en.wikipedia.org/wiki/Docker_(software)>)</small>
+[![CodeAdam](images/screenshot-codeadam.png)](https://codeadam.ca)
 
 ## Steps
 
