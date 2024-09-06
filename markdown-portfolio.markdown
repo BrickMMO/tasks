@@ -6,6 +6,14 @@ Your portflio may be the most important asset when you start your internship and
 
 [![CodeAdam](images/screenshot-codeadam.png)](https://codeadam.ca)
 
+Along with my digital presence:
+
+[!<img src="images/screenshot-codeadam.png" width="150">](https://codeadam.ca)
+[!<img src="images/screenshot-codeadam.png" width="150">](https://codeadam.ca)
+[!<img src="images/screenshot-codeadam.png" width="150">](https://codeadam.ca)
+[!<img src="images/screenshot-codeadam.png" width="150">](https://codeadam.ca)
+
+
 ## Steps
 
 To complete this task, follow these steps:
