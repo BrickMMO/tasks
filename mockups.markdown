@@ -6,7 +6,7 @@ Before you start coding your [BrickMMO](https://brickmmo.com/) or [Useless Web](
 
 Your mockup should include each possible page (including admin pages if they exist). Include a description of any animations and/or interactivity.
 
-During a drop-in session review the mockups with your instructor.
+During a class review the mockups with your instructor or fellow students.
 
 ## Steps
 
@@ -14,7 +14,7 @@ To complete this task, follow these steps:
 
 1. I would recommend starting with paper and a pen. Draw some mockups.
 2. Create your mockups using your program of choice (Figma, Adobe XD, Photoshop, etc...).
-3. During a drop-in session review the mockups with your instructor.
+3. During a class review the mockups with your instructor or fellow students.
 4. Submit your completed mockup as a PDF or a link.
 
 ## Submitting this Task
