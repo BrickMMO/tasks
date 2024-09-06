@@ -35,8 +35,8 @@ These tasks are to be completed in the following order:
 6. [Firebase](firebase)
 7. [Project Presentation](project-presentation)
 8. [Final Project](final-project)
-9. [Portfolio Mockups](portfolio-mockups.markdown)
-10. [Portfolio](portfolio.markdown)
+9. [Portfolio Mockups](portfolio-mockups)
+10. [Portfolio](portfolio)
 
 ## Programming Guidelines
 
