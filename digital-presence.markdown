@@ -15,9 +15,9 @@ I also aim to keep some consistencey between my digital presence and my online p
 
 Consider the following when designing your online presence:
 
-1. Domain Name
-2. Name (your name, a nickname, etc...)
-3. A brand (logo, colours, etc...)
+1. Domain Name (codeadam.ca) and Account Names (codeadamca)
+2. You Name (your name, a nickname, business name, etc...)
+3. Brand (logo, colours, etc...)
 
 Here are the images I use for my onilne presence:
 
