@@ -6,8 +6,6 @@ This repo stores a list of introductory tasks to be completed by students contri
 
 ![I Love Hate Programming](images/meme-hate-love.jpeg)
 
-For due dates please login to [BrickMMO Flow](https://flow.brickmmo.com/).
-
 ## Phase One
 
 These tasks are to be completed in the following order:
