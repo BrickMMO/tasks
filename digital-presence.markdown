@@ -21,7 +21,10 @@ Consider the following when designing your online presence:
 
 Here are the images I use for my onilne presence:
 
+<img src="images/presence-banner.png" height="200">
 
+<img src="images/presence-logo.png" height="200">
+<img src="images/presence-profile.png" height="200">
 
 Personally I have a series of images I use for all my professional online assets and a different series for all my personal assets. 
 
