@@ -9,7 +9,7 @@ Your digital presence may play an important role when you start your internship 
 [<img src="images/screenshot-github.png" width="150">](https://github.com/codeadamca)
 [<img src="images/screenshot-instagram.png" width="150">](https://www.instagram.com/codeadamca/)
 
-I also aim to keep some consistencey between my digitall presence and my online portfolio:
+I also aim to keep some consistency between my digitall presence and my online portfolio:
 
 [![CodeAdam](images/screenshot-codeadam.png)](https://codeadam.ca)
 
