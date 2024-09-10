@@ -9,7 +9,7 @@ Your digital presence may play an important role when you start your internship 
 [<img src="images/screenshot-github.png" width="150">](https://github.com/codeadamca)
 [<img src="images/screenshot-instagram.png" width="150">](https://www.instagram.com/codeadamca/)
 
-I also aim to keep some consistencey between my digital presence and my online portfolio:
+I also aim to keep some consistencey between my digitall presence and my online portfolio:
 
 [![CodeAdam](images/screenshot-codeadam.png)](https://codeadam.ca)
 
@@ -25,7 +25,7 @@ Here are the images I use for my onilne presence:
 
 <img src="images/presence-logo.png" height="200"> <img src="images/presence-profile.jpg" height="200">
 
-I have a series of images I use for all my professional online assets and a different series for all my personal assets. 
+I have a series of images I use for all my professional onlinegk assets and a different series for all my personal assets. 
 
 ## Steps
 
@@ -33,7 +33,7 @@ To complete this task, follow these steps:
 
 1. Design a brand for your online presence. 
 2. Create profile and/or banner images.
-3. Determine which online assets will be utilized for your online presence. I use my portfolio, [LinkedIn](https://www.linkedin.com/), [YouTube](https://www.youtube.com/), [GitHub](https://github.com/), and [Instagram](https://instagram.com/).
+3. Determine which online assets will be utilized for your online presence. I use my prtfolio, [LinkedIn](https://www.linkedin.com/), [YouTube](https://www.youtube.com/), [GitHub](https://github.com/), and [Instagram](https://instagram.com/).
 4. Apply brand to all online assets. 
 
 ## Submitting this Task
