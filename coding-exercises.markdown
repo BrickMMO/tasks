@@ -7,8 +7,7 @@ During this course we will participate in **Coding from Scratch** exercises. The
 1. Accordion
 2. Slideshow
 3. Monty Hall
-4. Contact Form
-5. API Integration
+4. API Integration
 
 ## Steps
 
