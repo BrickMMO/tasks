@@ -20,8 +20,7 @@ These tasks are to be completed in the following order:
 8. [Deployment](deployment)
 9. [Stack Overflow](stack-overflow)
 10. [Coding from Scratch Exercises](coding-exercises)
-11. [Markdown Website](markdown-website)
-12. [Digital Presence](digital-presence)
+11. [Digital Presence](digital-presence)
 
 ## Phase Two
 
