@@ -26,16 +26,17 @@ These tasks are to be completed in the following order:
 
 These tasks are to be completed in the following order:
 
-1. [Making Media Accessible](making-media-accessible)
-2. [Project Pitch](project-pitch)
-3. [Stand Up Meetings](standup-meetings)
-4. [Mockups](mockups)
-5. [Docker](docker)
+1. [Project Pitch](project-pitch)
+2. [Stand Up Meeting #1](standup-meetings)
+3. [Mockups](mockups)
+4. [Docker](docker)
+5. [Stand Up Meeting #2](standup-meetings)
 6. [Firebase](firebase)
 7. [Project Presentation](project-presentation)
 8. [Final Project](final-project)
-9. [Portfolio Mockups](portfolio-mockups)
-10. [Portfolio](portfolio)
+9. [Stand Up Meeting #3](standup-meetings)
+10. [Portfolio Mockups](portfolio-mockups)
+11. [Portfolio](portfolio)
 
 ## Programming Guidelines
 
