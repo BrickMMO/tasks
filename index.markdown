@@ -6,7 +6,7 @@ This repo stores a list of introductory tasks to be completed by students contri
 
 ![I Love Hate Programming](images/meme-hate-love.jpeg)
 
-## Phase One
+## Workshops in Web Development One
 
 These tasks are to be completed in the following order:
 
@@ -22,7 +22,7 @@ These tasks are to be completed in the following order:
 10. [Coding from Scratch Exercises](coding-exercises)
 11. [Digital Presence](digital-presence)
 
-## Phase Two
+## Workshops in Web Development Two
 
 These tasks are to be completed in the following order:
 
