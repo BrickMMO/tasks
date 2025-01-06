@@ -6,7 +6,7 @@ You will need many different accounts and tools during the Web Development progr
 
 ### LinkedIn
 
-![GitHub](images/logo-github.png)
+![GitHub](images/logo-linkedin.png)
 
 [LinkedIn](https://www.linkedin.com/) is a business and employment-focused social media platform. This website may play a n important role when you start applying for internships and a fulltime job.
 
@@ -36,7 +36,16 @@ Check out my online presence using my [LinkTree](https://linktr.ee/codeadamca) p
 
 To complete this task, follow these steps:
 
-1. Register for a [GitHub](https://github.com) account and complete your profile.
+1. Register for a [LinkedIn](https://www.linkedin.com/) account and complete your profile.
+
+   Make sure to include the following information:
+
+   - Name
+   - Short Bio
+   - Avatar (use something professional)
+   - Banner (use something professional)
+
+3. Register for a [GitHub](https://github.com) account and complete your profile.
 
    ![GitHub Account](images/screenshot-github.png)
 
@@ -56,7 +65,7 @@ To complete this task, follow these steps:
 
    ![GitHub Avatar](images/screenshot-github-url.png)
 
-3. Register for [Discord](https://discord.com/) and join the [BrickMMO Discord Server](https://discord.gg/SV4ssQYRq3).
+4. Register for [Discord](https://discord.com/) and join the [BrickMMO Discord Server](https://discord.gg/SV4ssQYRq3).
 
    ![BrickMMO Discord Server](images/screenshot-discord.png)
 
@@ -69,7 +78,7 @@ To complete this task, follow these steps:
    - Server Nickname (user your First Name and then the term `Tasks` in brackets, for example `Adam (Tasks)`)
    - Post your first message in the `tasks` channel
 
-4. Register for [Stack Overflow](https://stackoverflow.com/) and complete your profile:
+5. Register for [Stack Overflow](https://stackoverflow.com/) and complete your profile:
 
    ![Stack Overflow](images/screenshot-stack-overflow.png)
 
@@ -91,7 +100,7 @@ To complete this task, follow these steps:
 
    ![GitHub Avatar](images/screenshot-stackoverflow-url.png)
 
-5. Log in to Blackboard and post a link to your GitHub and Stack Overflow accounts in the `accounts` message board.
+6. Log in to Blackboard and post a link to your GitHub and Stack Overflow accounts in the `accounts` message board.
 
 ## Submitting this Task
 
