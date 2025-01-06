@@ -35,8 +35,7 @@ These tasks are to be completed in the following order:
 7. [Project Presentation](project-presentation)
 8. [Final Project](final-project)
 9. [Stand Up Meeting #3](standup-meetings)
-10. [Portfolio Mockups](portfolio-mockups)
-11. [Portfolio](portfolio)
+10. [Portfolio](portfolio)
 
 ## Programming Guidelines
 
