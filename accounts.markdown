@@ -2,7 +2,13 @@
 
 ## Accounts
 
-You will need many different accounts and tools during the Web Development program. In this course you will need a [GitHub](https://github.com/), and [Discord](https://discord.com/) account.
+You will need many different accounts and tools during the Web Development program. In this course you will need a [GitHub](https://github.com/), [LinkedIn](https://www.linkedin.com/), [Stack Overflow][(https://stackoverflow.com/users/signup), and [Discord](https://discord.com/) account.
+
+### LinkedIn
+
+![GitHub](images/logo-github.png)
+
+[LinkedIn](https://www.linkedin.com/) is a business and employment-focused social media platform. This website may play a n important role when you start applying for internships and a fulltime job.
 
 ### GitHub
 
