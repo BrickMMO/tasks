@@ -14,7 +14,7 @@ To complete this task, follow these steps:
 
 ## Submitting this Task
 
-After you have completed your portfolio submit your URL in the **Portfolio** assignment in [Blackboard](https://learn.humber.ca/).
+After you have completed your portfolio you will present your porftolio in our final week and submit your URL in the **Portfolio** assignment in [Blackboard](https://learn.humber.ca/).
 
 [&#10132; Back to Task List](/)
 
