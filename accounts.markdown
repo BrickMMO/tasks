@@ -45,7 +45,7 @@ To complete this task, follow these steps:
    - Avatar (use something professional)
    - Banner (use something professional)
 
-3. Register for a [GitHub](https://github.com) account and complete your profile.
+2. Register for a [GitHub](https://github.com) account and complete your profile.
 
    ![GitHub Account](images/screenshot-github.png)
 
@@ -65,7 +65,7 @@ To complete this task, follow these steps:
 
    ![GitHub Avatar](images/screenshot-github-url.png)
 
-4. Register for [Discord](https://discord.com/) and join the [BrickMMO Discord Server](https://discord.gg/SV4ssQYRq3).
+3. Register for [Discord](https://discord.com/) and join the [BrickMMO Discord Server](https://discord.gg/SV4ssQYRq3).
 
    ![BrickMMO Discord Server](images/screenshot-discord.png)
 
@@ -78,7 +78,7 @@ To complete this task, follow these steps:
    - Server Nickname (user your First Name and then the term `Tasks` in brackets, for example `Adam (Tasks)`)
    - Post your first message in the `tasks` channel
 
-5. Register for [Stack Overflow](https://stackoverflow.com/) and complete your profile:
+4. Register for [Stack Overflow](https://stackoverflow.com/) and complete your profile:
 
    ![Stack Overflow](images/screenshot-stack-overflow.png)
 
@@ -100,11 +100,11 @@ To complete this task, follow these steps:
 
    ![GitHub Avatar](images/screenshot-stackoverflow-url.png)
 
-6. Log in to Blackboard and post a link to your GitHub and Stack Overflow accounts in the `accounts` message board.
+5. Log in to Blackboard and post a link to your Linkedin, GitHub, and Stack Overflow accounts in the `accounts` message board.
 
 ## Submitting this Task
 
-After you have completed your four accounts, submit your GitHub URL, Stack Overflow URL, and Discord username to the **Accounts** assignment in [Blackboard](https://learn.humber.ca/).
+After you have completed your four accounts, submit your LinkedIn ULR, GitHub URL, Stack Overflow URL, and Discord username to the **Accounts** assignment in [Blackboard](https://learn.humber.ca/).
 
 [&#10132; Back to Task List](/)
 
