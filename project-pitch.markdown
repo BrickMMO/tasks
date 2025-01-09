@@ -29,9 +29,12 @@ If done correctly this can make a great portfolio piece. I would recommend aimin
 
 - [Passive Aggressive Password Machine](https://trypap.com/)
 - [Koalas to the Max](https://www.koalastothemax.com/)
+- [Hacker Typer](https://hackertyper.net/)
 
-> From time to time I will deconstruct a website, here is a deconstruction of Koalas to the Max:
+> From time to time I will deconstruct a website, here is a deconstruction of Koalas to the Max:  
 > https://github.com/codeadamca/deconstruction-koalastothemax
+> https://github.com/codeadamca/deconstruction-pointer
+> https://github.com/codeadamca/deconstruction-jacksonpollock 
 
 ## Steps
 
