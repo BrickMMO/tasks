@@ -10,20 +10,23 @@ The final project can either be a [BrickMMO](https://brickmmo.com/) project or a
 
 In a group of one to three students you can work on one of the proposed projects or propose your own idea. Current proposed ideas include:
 
-- Bricker (BrickMMO Twitter)
-- Events
-- Flow (timesheets, questions, skills)
-- Pick a Brick
-- GPS
-- Parts
-- Website
-- Brickcoin
-- Panel
-- News
+- Videokit (HTML/CSS)
+- Advanced MILS (HTML/CSS)
+- Watts Wrong (HTML/CSS)	
+- Glyphs (HTML/CSS)
+- Assets (HTML/CSS)
 
 ### Useless Website
 
 Or you can create a [Useless Website](https://theuselessweb.com/) as an individual. Try to come up with an idea that is quirky but somewhat related to the Web Development industry.
+
+Here are a few Ideas I was suggesting:
+
+- What is my IP/Location tool (https://whatismyipaddress.com/)
+- What is my resolution/device/browser tool (https://screenresolutiontest.com/)
+- A WHOIS tools (https://lookup.icann.org/en/lookup)
+- Favicon Generator (https://favicon.io/)
+- Sample File Website (a website with every testing file you could need)
 
 If done correctly this can make a great portfolio piece. I would recommend aiming for something like one of the following Useless Websites:
 
