@@ -51,7 +51,7 @@ To complete this task, follow these steps:
 
    Write the pitch as if another group of programmers will be coding the project.
 
-   Include the project purpose, descriptions of front-end and back-end, and any API endpoints.
+   Include the project purpose, stack, rough sketches, descriptions of front-end and back-end, and any API endpoints.
 
 4. Prepare a two minute pitch presentation to present to the class.
 
