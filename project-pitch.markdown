@@ -28,7 +28,7 @@ Here are a few Ideas I would like to see built:
 - Favicon Generator (https://favicon.io/)
 - Sample File Website (a website with every testing file you could need)
 
-If done corrrrectly this can make a great portfolio piece. I would recommend aiming for something like one of the following Useless Websites:
+If done correctly this can make a great portfolio piece. I would recommend aiming for something like one of the following Useless Websites:
 
 - [Passive Aggressive Password Machine](https://trypap.com/)
 - [Koalas to the Max](https://www.koalastothemax.com/)
@@ -53,7 +53,7 @@ To complete this task, follow these steps:
 
    Include the project purpose, stack, rough sketches, descriptions of front-end and back-end, and any API endpoints.
 
-4. Prepare a two minute presentation to present to the class. Include a short slidedeck. Include a description of your project, the stack you polan on using, any technical barrieras, and some rough mockups of you plan.
+4. Prepare a two minute presentation to present to the class. Include a short slidedeck. Include a description of your project, the stack you polan on using, any technical barriers, and some rough mockups of you plan.
 
 ## Submitting this Task
 
