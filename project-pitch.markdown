@@ -53,7 +53,7 @@ To complete this task, follow these steps:
 
    Include the project purpose, stack, rough sketches, descriptions of front-end and back-end, and any API endpoints.
 
-4. Prepare a two minute presentation to present to the class. Include a short slidedeck. Include a description of your project, the stack you polan on using, any technical barriers, and some rough mockups of you plan.
+4. Prepare a two minute presentation to present to the class. Include a short slidedeck. Include a description of your project, the stack you plan on using, any technical barriers, and some rough mockups of you plan.
 
 ## Submitting this Task
 
