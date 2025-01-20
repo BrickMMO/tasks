@@ -10,7 +10,7 @@ The final project can either be a [BrickMMO](https://brickmmo.com/) project or a
 
 In a group of one to three students you can work on one of the proposed projects or propose your own idea. Current proposed ideas include:
 
-- Videokit (HTML/CSS)
+- VideoKit (HTML/CSS)
 - Advanced MILS (HTML/CSS)
 - Watts Wrong (HTML/CSS)	
 - Glyphs (HTML/CSS)
@@ -20,7 +20,7 @@ In a group of one to three students you can work on one of the proposed projects
 
 Or you can create a [Useless Website](https://theuselessweb.com/) as an individual. Try to come up with an idea that is quirky but somewhat related to the Web Development industry.
 
-Here are a few Ideas I was suggesting:
+Here are a few Ideas I would like to see built:
 
 - What is my IP/Location tool (https://whatismyipaddress.com/)
 - What is my resolution/device/browser tool (https://screenresolutiontest.com/)
@@ -28,7 +28,7 @@ Here are a few Ideas I was suggesting:
 - Favicon Generator (https://favicon.io/)
 - Sample File Website (a website with every testing file you could need)
 
-If done correctly this can make a great portfolio piece. I would recommend aiming for something like one of the following Useless Websites:
+If done corrrrectly this can make a great portfolio piece. I would recommend aiming for something like one of the following Useless Websites:
 
 - [Passive Aggressive Password Machine](https://trypap.com/)
 - [Koalas to the Max](https://www.koalastothemax.com/)
@@ -53,7 +53,7 @@ To complete this task, follow these steps:
 
    Include the project purpose, stack, rough sketches, descriptions of front-end and back-end, and any API endpoints.
 
-4. Prepare a two minute pitch presentation to present to the class.
+4. Prepare a two minute presentation to present to the class. Include a short slidedeck. Include a description of your project, the stack you polan on using, any technical barrieras, and some rough mockups of you plan.
 
 ## Submitting this Task
 
