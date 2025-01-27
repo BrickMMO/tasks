@@ -30,7 +30,7 @@ For this task you will create a repo named `about-me` and deploy a basic HTML an
 
 ### Infinity Free Hosting
 
-There are many free hosting services available. But remember, youuu get what you pay for!
+There are many free hosting services available. But remember, you get what you pay for!
 
 ![Infinity Free](images/screenshot-infinity-free.png)
 
