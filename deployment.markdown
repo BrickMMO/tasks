@@ -4,7 +4,7 @@
 
 Great! You have learned lots of great languages! You can build a website! But how do you deploy that website? How do we upload our website to Internet?
 
-By the end of the proggram you will want a professional domain name. I purchased my domain name ([codeadam.ca](https://codeadam.ca)) from [GoDaddy](https://www.godaddy.com/). And a hosting service (I use the [Google Cloud](https://cloud.google.com/)). But for now, let's deploy a website using a variety of free services.
+By the end of the program you will want a professional domain name. I purchased my domain name ([codeadam.ca](https://codeadam.ca)) from [GoDaddy](https://www.godaddy.com/). And a hosting service (I use the [Google Cloud](https://cloud.google.com/)). But for now, let's deploy a website using a variety of free services.
 
 For this task you will create a basic one page website using HTML and CSS with a few details about you:
 
