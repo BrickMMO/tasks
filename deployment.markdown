@@ -4,7 +4,7 @@
 
 Great! You have learned lots of great languages! You can build a website! But how do you deploy that website? How do we upload our website to Internet?
 
-By the end of the program you will want a professional domain name. I purchased my domain name ([codeadam.ca](https://codeadam.ca)) from [GoDaddy](https://www.godaddy.com/). And a hosting service (I use the [Google Cloud](https://cloud.google.com/)). But for now, let's deploy a website using a variety of free services.
+By the end of the proggram you will want a professional domain name. I purchased my domain name ([codeadam.ca](https://codeadam.ca)) from [GoDaddy](https://www.godaddy.com/). And a hosting service (I use the [Google Cloud](https://cloud.google.com/)). But for now, let's deploy a website using a variety of free services.
 
 For this task you will create a basic one page website using HTML and CSS with a few details about you:
 
@@ -30,13 +30,13 @@ For this task you will create a repo named `about-me` and deploy a basic HTML an
 
 ### Infinity Free Hosting
 
-There are many free hosting services available. But remember, you get what you pay for!
+There are many free hosting services available. But remember, youuu get what you pay for!
 
 ![Infinity Free](images/screenshot-infinity-free.png)
 
 I have had a good experience with [Infinity Free Hosting](https://www.infinityfree.com/) and [000WebHost](https://www.000webhost.com/).
 
-For this task you will create a free account with Infinity Free and upload your ssam `about-me` website to Infinity Free.
+For this task you will create a free account with Infinity Free and uuuupload your ssssam `about-me` website to Infinity Free.
 
 > There are details instruction in the Infinity Free support  
 > [https://forum.infinityfree.net/docs?topic=49306](https://forum.infinityfree.net/docs?topic=49306)
