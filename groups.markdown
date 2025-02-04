@@ -90,13 +90,20 @@ Some of these tasks are an exercise in paying attention to the details. **Read**
 To complete this task, follow these steps:
 
 1. Create a fork of the [contributions](https://github.com/BrickMMO/contributions) repo.
-2. Clone your new repo to your computer.
+2. Clone **your** new repo to your computer.
 3. Create a page in the students folder. Name the page using your GitHub username (for example `codeadamca.markdown`). Use lowercase and kebab case (for example `BetVilen_45` becomes `betvilen-45.markdown`). Copy the code from another student page as a starting point. 
-4. Add your image to the repo. Name your image using your GitHub username (for example `codeadamca.jpg`). Use the same conventions used in step 3. Image should be exactly 80 x 80 pixels. 
+4. Add your image to the images folder in your repo. Name your image using your GitHub username (for example `codeadamca.jpg`). Use the same conventions used in step 3, lowercase and kebab case). Image should be exactly 80 x 80 pixels. 
 5. Add your information to your page (GitHub, LinkedIn, portfolio, etc...). Do **not** include personal contact information like email or phone number. 
-6. Add a table with a list of BrickMMO projects you have contributed to. At this point just include the `Tasks` project and link it to `https://tasks.brickmmo.com/`.
-7. Add your name to any class pages.
-8. Submit a pull request.
+6. Add a table with a list of BrickMMO projects you have contributed to. At this point just include the `Tasks` project and link it to `https://tasks.brickmmo.com/`. Here is an example of the projects table:
+
+   ```markdown
+   | Project |                                                                                  |
+   | ------- | -------------------------------------------------------------------------------- |
+   | Flow    | [https://brickmmo.github.io/flow-about/](https://brickmmo.github.io/flow-about/) |
+   | Tasks   | [https://tasks.brickmmo.com/](https://tasks.brickmmo.com/)                       |
+   ```
+8. Add your name to any class pages.
+9. Submit a pull request.
 
 For more details instructions, check out the README.md file in the [contributions](https://github.com/BrickMMO/contributions) repo.
 
