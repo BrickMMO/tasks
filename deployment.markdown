@@ -66,7 +66,7 @@ To complete this task, follow these steps:
 
 ## Submitting this Task
 
-Once the pull request has been approved, submit a link to your GitHub repo, your about me page hosted using GitHub pages, and your about me page hosted using Infinity Free to the **Deployment** assignment in [Blackboard](https://learn.humber.ca/).
+Submit a link to your GitHub repo, your about me page hosted using GitHub pages, and your about me page hosted using Infinity Free to the **Deployment** assignment in [Blackboard](https://learn.humber.ca/).
 
 [&#10132; Back to Task List](/)
 
