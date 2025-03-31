@@ -38,7 +38,7 @@ To complete this task, follow these steps:
 
 ## Submitting this Task
 
-After you have completed your Markdown Portfolio submit your GitHub Pages URL in the **Markdown Portfolio** assignment in [Blackboard](https://learn.humber.ca/).
+After you have made your digital assets professional and consistent, submit your links in the **Digital Presence** assignment in [Blackboard](https://learn.humber.ca/).
 
 [&#10132; Back to Task List](/)
 
