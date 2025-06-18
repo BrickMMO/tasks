@@ -36,7 +36,7 @@ There are many free hosting services available. But remember, you get what you p
 
 I have had a good experience with [Infinity Free Hosting](https://www.infinityfree.com/) and [000WebHost](https://www.000webhost.com/).
 
-For this task you will create a free account with Infinity Free and upload your ssam `about-me` website to Infinity Free.
+For this task you will create a free account with Infinity Free and upload your  `about-me` website to Infinity Free.
 
 > There are details instruction in the Infinity Free support  
 > [https://forum.infinityfree.net/docs?topic=49306](https://forum.infinityfree.net/docs?topic=49306)
@@ -66,7 +66,7 @@ To complete this task, follow these steps:
 
 ## Submitting this Task
 
-Once the pull request has been approved, submit a link to your GitHub repo, your about me page hosted using GitHub pages, and your about me page hosted using Infinity Free to the **Deployment** assignment in [Blackboard](https://learn.humber.ca/).
+Submit a link to your GitHub repo, your about me page hosted using GitHub pages, and your about me page hosted using Infinity Free to the **Deployment** assignment in [Blackboard](https://learn.humber.ca/).
 
 [&#10132; Back to Task List](/)
 

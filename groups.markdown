@@ -89,16 +89,45 @@ Some of these tasks are an exercise in paying attention to the details. **Read**
 
 To complete this task, follow these steps:
 
-1. Create a fork of the [contributions](https://github.com/BrickMMO/contributions) repo.
-2. Clone your new repo to your computer.
-3. Create a page in the students folder. Name the page using your GitHub username (for example `codeadamca.markdown`). Use lowercase and kebab case (for example `BetVilen_45` becomes `betvilen-45.markdown`). Copy the code from another student page as a starting point. 
-4. Add your image to the repo. Name your image using your GitHub username (for example `codeadamca.jpg`). Use the same conventions used in step 3. Image should be exactly 80 x 80 pixels. 
-5. Add your information to your page (GitHub, LinkedIn, portfolio, etc...). Do **not** include personal contact information like email or phone number. 
-6. Add a table with a list of BrickMMO projects you have contributed to. At this point just include the `Tasks` project and link it to `https://tasks.brickmmo.com/`.
-7. Add your name to any class pages.
-8. Submit a pull request.
+1. Create a fork of the [BrickMMO contributions](https://github.com/BrickMMO/contributions) repo.
 
-For more details instructions, check out the README.md file in the [contributions](https://github.com/BrickMMO/contributions) repo.
+2. Clone **your** new repo to your computer. **DO NOT clone the BrickMMO repo!**
+
+3. Open up your code editor and point it to the new project folder. It will be named something like `forked-contributions`.
+
+4. Create a page in the students folder. Name this page using your GitHub username (for example `codeadamca.markdown`). Use lowercase and kebab case (for example `BetVilen_45` becomes `betvilen-45.markdown`). Copy the code from another student page as a starting point. 
+
+5. Add your image to the images folder in your repo. Name your image using your GitHub username (for example `codeadamca.jpg`). Use the same conventions used in step 3, lowercase and kebab case). Image should be exactly 80 x 80 pixels.
+   
+   If you have never resized an image, do a quick Google of the term `resize image` and you will get lots of suggestions. I would recommend [Pixlr](https://pixlr.com/) or Photoshopo if you have a copy. 
+
+6. Add your information to your page (GitHub, LinkedIn, portfolio, etc...). Do **not** include personal contact information like email or phone number. 
+
+7. Add a table with a list of BrickMMO projects you have contributed to. At this point just include the `Tasks` project and link it to `https://tasks.brickmmo.com/`. Here is an example of the projects table:
+
+   ```markdown
+   | Project |                                                                                  |
+   | ------- | -------------------------------------------------------------------------------- |
+   | Tasks   | [https://tasks.brickmmo.com/](https://tasks.brickmmo.com/)                       |
+   ```
+
+8. Add your name to the student table in the appropriate HTTP5114 class pages. Here is an example of the student table:
+
+   ```markdown
+   | ![Adam Thomas](images/codeadamca.png) | Adam Thomas | [codeadamca](students/codeadamca) |
+   ```
+
+9. When you are done, push the updates to **your** GitHub repo:
+
+    ```
+    git add .
+    git commit -am "Added Adam to HTTP5114"
+    git push
+    ```
+
+    Use a meaningful commit message.
+
+10. Then navigate to **your** `forked-contributions` repo in a browser and submit a pull request. You can do this by clicking the `Contribute` button and then `Pull Request`.
 
 > You can check our my page as an example:  
 > [https://contributions.brickmmo.com/faculty/codeadamca](https://contributions.brickmmo.com/faculty/codeadamca)

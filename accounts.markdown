@@ -2,7 +2,13 @@
 
 ## Accounts
 
-You will need many different accounts and tools during the Web Development program. In this course you will need a [GitHub](https://github.com/), and [Discord](https://discord.com/) account.
+You will need many different accounts and tools during the Web Development program. In this course you will need a [GitHub](https://github.com/), [LinkedIn](https://www.linkedin.com/), [Stack Overflow][(https://stackoverflow.com/users/signup), and [Discord](https://discord.com/) account.
+
+### LinkedIn
+
+![GitHub](images/logo-linkedin.png)
+
+[LinkedIn](https://www.linkedin.com/) is a business and employment-focused social media platform. This website may play a n important role when you start applying for internships and a fulltime job.
 
 ### GitHub
 
@@ -30,7 +36,16 @@ Check out my online presence using my [LinkTree](https://linktr.ee/codeadamca) p
 
 To complete this task, follow these steps:
 
-1. Register for a [GitHub](https://github.com) account and complete your profile.
+1. Register for a [LinkedIn](https://www.linkedin.com/) account and complete your profile.
+
+   Make sure to include the following information:
+
+   - Name
+   - Short Bio
+   - Avatar (use something professional)
+   - Banner (use something professional)
+
+2. Register for a [GitHub](https://github.com) account and complete your profile.
 
    ![GitHub Account](images/screenshot-github.png)
 
@@ -85,11 +100,11 @@ To complete this task, follow these steps:
 
    ![GitHub Avatar](images/screenshot-stackoverflow-url.png)
 
-5. Log in to Blackboard and post a link to your GitHub and Stack Overflow accounts in the `accounts` message board.
+5. Log in to Blackboard and post a link to your Linkedin, GitHub, and Stack Overflow accounts in the `accounts` message board.
 
 ## Submitting this Task
 
-After you have completed your four accounts, submit your GitHub URL, Stack Overflow URL, and Discord username to the **Accounts** assignment in [Blackboard](https://learn.humber.ca/).
+After you have completed your four accounts, submit your LinkedIn ULR, GitHub URL, Stack Overflow URL, and Discord username to the **Accounts** assignment in [Blackboard](https://learn.humber.ca/).
 
 [&#10132; Back to Task List](/)
 

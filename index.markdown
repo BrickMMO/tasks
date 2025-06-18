@@ -6,7 +6,7 @@ This repo stores a list of introductory tasks to be completed by students contri
 
 ![I Love Hate Programming](images/meme-hate-love.jpeg)
 
-## Phase One
+## Workshops in Web Development One
 
 These tasks are to be completed in the following order:
 
@@ -20,23 +20,21 @@ These tasks are to be completed in the following order:
 8. [Deployment](deployment)
 9. [Stack Overflow](stack-overflow)
 10. [Coding from Scratch Exercises](coding-exercises)
-11. [Markdown Website](markdown-website)
-12. [Digital Presence](digital-presence)
+11. [Digital Presence](digital-presence)
 
-## Phase Two
+## Workshops in Web Development Two
 
 These tasks are to be completed in the following order:
 
-1. [Making Media Accessible](making-media-accessible)
-2. [Project Pitch](project-pitch)
-3. [Stand Up Meetings](standup-meetings)
-4. [Mockups](mockups)
-5. [Docker](docker)
+1. [Project Pitch](project-pitch)
+2. [Stand Up Meeting #1](standup-meetings)
+3. [Mockups](mockups)
+4. [Docker](docker)
+5. [Stand Up Meeting #2](standup-meetings)
 6. [Firebase](firebase)
 7. [Project Presentation](project-presentation)
 8. [Final Project](final-project)
-9. [Portfolio Mockups](portfolio-mockups)
-10. [Portfolio](portfolio)
+9. [Vibe Coding](vibe-coding)
 
 ## Programming Guidelines
 

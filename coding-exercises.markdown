@@ -5,8 +5,8 @@
 During this course we will participate in **Coding from Scratch** exercises. These exercises will require you to code a simple common task using vanilla JavaScript. The plan for this semester is to code the following concepts:
 
 1. Accordion
-2. Monty Hall
-3. Contact Form
+2. Slideshow
+3. Monty Hall
 4. API Integration
 
 ## Steps

@@ -10,28 +10,34 @@ The final project can either be a [BrickMMO](https://brickmmo.com/) project or a
 
 In a group of one to three students you can work on one of the proposed projects or propose your own idea. Current proposed ideas include:
 
-- Bricker (BrickMMO Twitter)
-- Events
-- Flow (timesheets, questions, skills)
-- Pick a Brick
-- GPS
-- Parts
-- Website
-- Brickcoin
-- Panel
-- News
+- VideoKit (HTML/CSS)
+- Advanced MILS (HTML/CSS)
+- Watts Wrong (HTML/CSS)	
+- Glyphs (HTML/CSS)
+- Assets (HTML/CSS)
 
 ### Useless Website
 
 Or you can create a [Useless Website](https://theuselessweb.com/) as an individual. Try to come up with an idea that is quirky but somewhat related to the Web Development industry.
 
+Here are a few Ideas I would like to see built:
+
+- What is my IP/Location tool (https://whatismyipaddress.com/)
+- What is my resolution/device/browser tool (https://screenresolutiontest.com/)
+- A WHOIS tools (https://lookup.icann.org/en/lookup)
+- Favicon Generator (https://favicon.io/)
+- Sample File Website (a website with every testing file you could need)
+
 If done correctly this can make a great portfolio piece. I would recommend aiming for something like one of the following Useless Websites:
 
 - [Passive Aggressive Password Machine](https://trypap.com/)
 - [Koalas to the Max](https://www.koalastothemax.com/)
+- [Hacker Typer](https://hackertyper.net/)
 
-> From time to time I will deconstruct a website, here is a deconstruction of Koalas to the Max:
+> From time to time I will deconstruct a website, here is a deconstruction of Koalas to the Max:  
 > https://github.com/codeadamca/deconstruction-koalastothemax
+> https://github.com/codeadamca/deconstruction-pointer
+> https://github.com/codeadamca/deconstruction-jacksonpollock 
 
 ## Steps
 
@@ -45,9 +51,9 @@ To complete this task, follow these steps:
 
    Write the pitch as if another group of programmers will be coding the project.
 
-   Include the project purpose, descriptions of front-end and back-end, and any API endpoints.
+   Include the project purpose, stack, rough sketches, descriptions of front-end and back-end, and any API endpoints.
 
-4. Prepare a two minute pitch presentation to present to the class.
+4. Prepare a two minute presentation to present to the class. Include a short slidedeck. Include a description of your project, the stack you plan on using, any technical barriers, and some rough mockups of you plan.
 
 ## Submitting this Task
 
