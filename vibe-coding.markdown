@@ -13,10 +13,10 @@ You may work in groups or as an individual. If you are working in groups, you wi
 Install the [GitHub Copilot](https://code.visualstudio.com/docs/copilot/overview) and [GitHub Copilot Chat](https://code.visualstudio.com/docs/copilot/overview) Visual Code extensions.
 
 1. Click Extensions on the left hand side. 
+2. Search for **Copilot**.
 
     ![Install GitHub Copilot](images/screenshot-copilot-search.png)
-    
-2. Search for **Copilot**.
+
 3. Install **GitHb Copilot** and **GitHub Copilot Chat**.
 
 ## Steps
@@ -32,7 +32,7 @@ To complete this task, follow these steps:
 
 ## Submitting this Task
 
-After you have deployed your vibe coded Useless Web contripution, submit your deployed URL and GitHub repoo URL in the **Vib Coding** assignment in [Blackboard](https://learn.humber.ca/).
+After you have deployed your vibe coded Useless Web contripution, submit your deployed URL and GitHub repo URL in the **Vib Coding** assignment in [Blackboard](https://learn.humber.ca/).
 
 [&#10132; Back to Task List](/)
 
