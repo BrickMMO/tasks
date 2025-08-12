@@ -30,7 +30,7 @@ After you have completed the assessment with a grade of 90% or higher, your inst
 ---
 
 <a href="https://brickmmo.com">
-<img src="https://brickmmo.com/images/brickmmo-logo-horizontal.jpg" width="100">
+<img src="https://cdn.brickmmo.com/images@1.0.0/brickmmo-logo-coloured-horizontal.png" width="200">
 </a>
 
 <script src="https://cdn.brickmmo.com/bar@1.0.0/bar.js"></script>
