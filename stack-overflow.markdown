@@ -47,5 +47,7 @@ Copy a link to your Stack Overflow question and submit it to the **Stack Overflo
 ---
 
 <a href="https://brickmmo.com">
-<img src="https://brickmmo.com/images/brickmmo-logo-horizontal.jpg" width="100">
+<img src="https://cdn.brickmmo.com/images@1.0.0/brickmmo-logo-coloured-horizontal.png" width="200">
 </a>
+
+<script src="https://cdn.brickmmo.com/bar@1.0.0/bar.js"></script>
