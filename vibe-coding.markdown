@@ -32,7 +32,7 @@ To complete this task, follow these steps:
 
 ## Submitting this Task
 
-After you have deployed your vibe coded Useless Web contripution, submit your deployed URL and GitHub repo URL in the **Vib Coding** assignment in [Blackboard](https://learn.humber.ca/).
+After you have deployed your vibe coded Useless Web contripution, submit your deployed URL and GitHub repo URL in the **Vibe Coding** assignment in [Blackboard](https://learn.humber.ca/).
 
 [&#10132; Back to Task List](/)
 
