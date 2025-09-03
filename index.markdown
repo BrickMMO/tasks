@@ -35,6 +35,8 @@ These tasks are to be completed in the following order:
 7. [Project Presentation](project-presentation)
 8. [Final Project](final-project)
 9. [Vibe Coding](vibe-coding)
+10. [Stand Up Meeting #3](standup-meetings)
+11. [Collaborative Coding](collaborative-coding)
 
 ## Programming Guidelines
 
