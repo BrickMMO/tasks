@@ -17,7 +17,7 @@ Install the [GitHub Copilot](https://code.visualstudio.com/docs/copilot/overview
 
     ![Install GitHub Copilot](images/screenshot-copilot-search.png)
 
-3. Install **GitHb Copilot** and **GitHub Copilot Chat**.
+3. Install **GitHub Copilot** and **GitHub Copilot Chat**.
 
 ## Steps
 
