@@ -33,7 +33,7 @@ To complete this task, follow these steps:
 
 1. Design a brand for your online presence.
 2. Create profile and/or banner images.
-3. Determine which online assets will be utilized for your online presence. I use my prtfolio, [LinkedIn](https://www.linkedin.com/), [YouTube](https://www.youtube.com/), [GitHub](https://github.com/), and [Instagram](https://instagram.com/).
+3. Determine which online assets will be utilized for your online presence. I use my portfolio, [LinkedIn](https://www.linkedin.com/), [YouTube](https://www.youtube.com/), [GitHub](https://github.com/), and [Instagram](https://instagram.com/).
 4. Apply brand to all online assets.
 
 ## Submitting this Task
