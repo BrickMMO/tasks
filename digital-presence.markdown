@@ -19,7 +19,7 @@ Consider the following when designing your online presence:
 2. You Name (your name, a nickname, business name, etc...)
 3. Brand (logo, colours, etc...)
 
-Here are the images I use for my onilne presence:
+Here are the images I use for my online presence:
 
 <img src="images/presence-banner.jpeg" height="200">
 
