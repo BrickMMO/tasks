@@ -33,4 +33,11 @@ After you have completed your Docker configuration, take a screenshot of your Do
 <img src="https://cdn.brickmmo.com/images@1.0.0/brickmmo-logo-coloured-horizontal.png" width="200">
 </a>
 
-<script src="https://cdn.brickmmo.com/bar@1.0.0/bar.js"></script>
+<script 
+    src="https://cdn.brickmmo.com/bar@1.1.0/bar.js"
+    data-console="false"
+    data-menu="false"
+    data-admin="false"
+    data-local="false"
+    data-https="true"
+></script>
