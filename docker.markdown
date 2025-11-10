@@ -8,7 +8,7 @@ Docker is a set of platform as a service products that use OS-level virtualizati
 
 ## Steps
 
-To complete this task, follow these steps:
+To complete this task, follow these stepss:
 
 1. Install [Docker]() on your computer.
 2. Setup a basic LAMP stack. I would recommend the following using the [8.3.4-apache](https://hub.docker.com/layers/library/php/8.3.4-apache/images/sha256-f83c7e0de36dea6fbd6885dea315b312e340d91017b5d4cfb3626b6c9ede3092) image.
