@@ -2,9 +2,9 @@
 
 ## Collaborative Coding
 
-For this task you will create another contribution to the [Useless Web](https://theuselessweb.com/); however, this time you will complete this task in three hours or less using **vibe coding**.
+For this task you will contribute to the BrickMMO Smart City project. 
 
-![Collaborative Coding](images/meme-collaborative.png)
+
 
 
 
