@@ -20,7 +20,7 @@ Write a paragraph or two to track what you shared in each standup meeting.
 For example:
 
 > **Stand Up #1**  
-> This week I completed the mockups for my project. My project relies on using the GitHub API. I have coded some basic API integrations with the GitHub API and PHP. The GitHub API endpoint I am using includes user profile images, but I can't get these to load. I reached out to another student who has worked with the GitHub API before for assistance. I have also setup basic PHP/MySQL hosting where I plan to deploy this project. 
+> This week I completed the mockups for my project. My proejct relies on using the GitHub API. I have coded some basic API integrations with the GitHub API and PHP. The GitHub API endpoint I am using includes user profile images, but I can't get these to load. I reached out to another student who has worked with the GitHub API before for assistance. I have also setup basic PHP/MySQL hosting where I plan to deploy this project. 
 
 ## Steps
 
