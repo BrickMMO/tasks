@@ -6,17 +6,49 @@ For this task you will contribute to the BrickMMO Smart City project.
 
 ![What is GitHub](images/meme-what-github.png)
 
-
+Choose a project from the [BrickMMO Project List](https://github.com/orgs/BrickMMO/projects) and complete one or more isssues.
 
 ## Steps
 
 To complete this task, follow these steps:
 
-1. Create a group of two to three.
+1. Work in groups of two to three. Take turns being the primary codder.
+
+2. Choose a project from the [BrickMMO Project List](https://github.com/orgs/BrickMMO/projects).
+   
+3. Choose an issue that is currently labellled as **ToDo**. Mark it as **In Propgress**. Clone the associated repo.
+
+> ![NOTE]
+> If you are not yet a member of the BrickMMO organization, ask your instructor to add you. 
+
+4. Clilck the **Assign Yourself** link.
+
+5. Clck the **Create a Branch** link. The default branch name is fine:
+
+6. Use the provided code to create and checout a new banch.
+
+    ```
+    git fetch origin
+    git checkout 1-branch-name
+    ```
+
+7. Use VSCode to make the required changes.
+
+8. Commit your changes and push using the branch name:
+
+    ```
+    git add .
+    git commit -am "Meaningful description"
+    git push origin 1-branch-name
+    ```
+
+9. Create a **Pull Request**.
+
+10. Your istructor will merge.
 
 ## Submitting this Task
 
-After you have completed your project, submit the URL to your group's pull request in the **Collaborative Coding** assignment in [Blackboard](https://learn.humber.ca/).
+After you have completed at least one issue, submit a link to the Pull Request in the **Collaborative Coding** assignment in [Blackboard](https://learn.humber.ca/).
 
 [&#10132; Back to Task List](/)
 
