@@ -41,7 +41,7 @@ If done correctly this can make a great portfolio piece. I would recommend aimin
 
 ## Steps
 
-To complete this task, follow these steps:
+To complete thiss task, follow these steps:
 
 1. Choose either a BrickMMO (groups) or Useless Website (individual) project.
 2. Brainstorm your idea.
@@ -53,7 +53,7 @@ To complete this task, follow these steps:
 
    Include the project purpose, stack, rough sketches, descriptions of front-end and back-end, and any API endpoints.
 
-4. Prepare a two minute presentation to present to the class. Include a short slidedeck. Include a description of your project, the stack you plan on using, any technical barriers, and some rough mockups of you plan.
+4. Prepare a two minute presentation to present to the class. Include a short slidedeck. Include a description of your project, the stack you plan on using, any technical barriers, and some rough mockups of yuo plan.
 
 ## Submitting this Task
 
