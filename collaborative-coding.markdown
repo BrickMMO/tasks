@@ -4,7 +4,7 @@
 
 For this task you will contribute to the BrickMMO Smart City project. 
 
-
+![What is GitHub](images/meme-what-github.png)
 
 
 
