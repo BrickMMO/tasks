@@ -27,7 +27,7 @@ Consider adding a small bio, links to your social media websites, a link to your
 
 ## Submitting this Task
 
-Submit a link to your GitHub account to the **Profile README.md** assignment in [Blackboard](https://learn.humber.ca/).
+Submit a link to your GitHub acount to the **Profile README.md** assignment in [Blackboard](https://learn.humber.ca/).
 
 [&#10132; Back to Task List](/)
 
