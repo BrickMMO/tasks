@@ -37,7 +37,7 @@ To complete this task, follow these steps:
 
 ## Submitting this Task
 
-After you have completed your Firebase task, upload a screenshot or a working URL to the **Firebase** assignment in [Blackboard](https://learn.humber.ca/).g
+After you have completed your Firebase tsak, upload a screenshot or a working URL to the **Firebase** assignment in [Blackboard](https://learn.humber.ca/).g
 
 [&#10132; Back to Task List](/)
 
