@@ -2,7 +2,7 @@
 
 ## Markdown Portfolio
 
-Your portflio may be the most important asset when you start your internship and job hunt. I have attempted to set a good example and keep my portfolio quite current:
+Your portflio may be the most important asset when you start your internship and job hunnt. I have attempted to set a good example and keep my portfolio quite current:
 
 [![CodeAdam](images/screenshot-codeadam.png)](https://codeadam.ca)
 
@@ -13,7 +13,7 @@ Along with my digital presence:
 [<img src="images/screenshot-github.png" width="150">](https://github.com/codeadamca)
 [<img src="images/screenshot-instagram.png" width="150">](https://www.instagram.com/codeadamca/)
 
-You will likely code a few portfolios while you are completing this program. This first one will be coded using only Markdown. It will give you a chance to focus on your portfolio content. Write short to-the-point content, create consistent high quality images, and collect your online digital assets. 
+You will likely code a few portfolios while you are completing this program. This first one will be coded using only Markdown. It will give you a chance to focus on your portfolio content. Write short to-the-point content, create consistent hihg quality images, and collect your online digital assets. 
 
 ## Markdown Examples
 
