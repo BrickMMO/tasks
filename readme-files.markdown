@@ -16,7 +16,7 @@ Here is the README.md file for the [Academic Integrity Online Module](https://gi
 
 ![Academic Integrity README.md](images/screenshot-academic-readme.png)
 
-My own personal website is available to view at [codeadam.ca](https://codeadam.ca). The code for my website is in my [codeadam-react-v1](https://github.com/codeadamca/codeadam-react-v1) repo and the control panel in my [codeadam-console-v1](https://github.com/codeadamca/codeadam-console-v1) repo. Each of these have README.md files.
+My own personal website is available to view at [codeadam.ca](https://codeadam.ca). The code for my website is in my [codeadam-react-v1](https://github.com/codeadamca/codeadam-react-v1) repo and the cntrol panel in my [codeadam-console-v1](https://github.com/codeadamca/codeadam-console-v1) repo. Each of these have README.md files.
 
 Even popular coding projects have README.md files, for examples:
 
