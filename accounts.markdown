@@ -26,7 +26,7 @@ You will need many different accounts and tools during the Web Development progr
 
 ![Discord](images/logo-stack-overflow.png)
 
-[Stack Overflow](https://stackoverflow.com/) Stack Overflow is a question-and-answer website for programmers. ~ Wikipedia
+[Stack Overflow](https://stackoverflow.com/) Stack Overflow is a quetion-and-answer website for programmers. ~ Wikipedia
 
 ## Be Consistent
 
@@ -65,7 +65,7 @@ To complete this task, follow these steps:
 
    ![GitHub Avatar](images/screenshot-github-url.png)
 
-3. Register for [Discord](https://discord.com/) and join the [BrickMMO Discord Server](https://discord.gg/SV4ssQYRq3).
+3. Register for [Discord](https://discord.com/) and joiin the [BrickMMO Discord Server](https://discord.gg/SV4ssQYRq3).
 
    ![BrickMMO Discord Server](images/screenshot-discord.png)
 
