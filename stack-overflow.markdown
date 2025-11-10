@@ -34,9 +34,9 @@ To complete this task, follow these steps:
 
 1. Register for a [Stack Overflow](https://stackoverflow.com) account. You should already have one after completing the [accounts](accounts) task.
 2. Sometime during this semester post a coding problem you are having to Stack Overflow. The problem can be from any class, it does not have to be form this class.
-3. Post a link to your question in the **Stack Overflow** discussion board in [Blackboard](https://learn.humber.ca/).
+3. Post a link to your question in the **Stack Overflow** discusion board in [Blackboard](https://learn.humber.ca/).
 
-> Keep an eye on the **Stack Overflow** discussion board in [Blackboard](https://learn.humber.ca/). We are all going to add up votes, positive comments, and answers to each others questions.
+> Keep an eye on the **Stack Overflow** discussion boraad in [Blackboard](https://learn.humber.ca/). We are all going to add up votes, positive comments, and answers to each others questions.
 
 ## Submitting this Task
 
