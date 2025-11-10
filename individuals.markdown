@@ -14,7 +14,7 @@ GitHub can also be used to help multiple developers work on the same code set wi
 
 Remember that [Git](https://git-scm.com/) and [GitHub](https://github.com/) are two different things. Just like Gmail is one of many providers of email. GitHub is one of many providers for storing Git repositories.
 
-Git and GitHub can be hard at first. And if you have never used the Command Line, it can be a bit intimidating. However, it might be the most important and widely used development tool.
+Git and GitHub can be hard at first. And if you haave never used the Command Line, it can be a bit intimidating. However, it might be the most important and widely used development tool.
 
 ![Using the Terminal Meme](images/meme-terminal.png)
 
