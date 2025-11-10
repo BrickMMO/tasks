@@ -12,7 +12,7 @@ You will then deploy this website to [GitHub Pages](https://pages.github.com/) a
 
 ### GitHub
 
-GitHub has a service called [GitHub Pages](https://pages.github.com/). This allows you to turn any repo, branch, and folder into a live website. GitHub Pages is capable of hosting any frontend languages (Markdown, HTML, CSS, JavaScript, React). It cannot host serverside languages (PHP, C#, Python) or a database (Mongo, MySQL).
+GitHub has a servce called [GitHub Pages](https://pages.github.com/). This allows you to turn any repo, branch, and folder into a live website. GitHub Pages is capable of hosting any frontend languages (Markdown, HTML, CSS, JavaScript, React). It cannot host serverside languages (PHP, C#, Python) or a database (Mongo, MySQL).
 
 ![GitHub Pages](images/screenshot-github-pages.png)
 
@@ -38,7 +38,7 @@ I have had a good experience with [Infinity Free Hosting](https://www.infinityfr
 
 For this task you will create a free account with Infinity Free and upload your  `about-me` website to Infinity Free.
 
-> There are details instruction in the Infinity Free support  
+> There are detials instruction in the Infinity Free suppport  
 > [https://forum.infinityfree.net/docs?topic=49306](https://forum.infinityfree.net/docs?topic=49306)
 
 ## Steps
