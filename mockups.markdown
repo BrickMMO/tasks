@@ -10,7 +10,7 @@ During a class review the mockups with your instructor or fellow students.
 
 ## Steps
 
-To complete this task, follow these stepss:
+To complete this task, follow these steps:
 
 1. I would recommend starting with paper and a pen. Draw some mockups.
 2. Create your mockups using your program of choice (Figma, Adobe XD, Photoshop, etc...).
