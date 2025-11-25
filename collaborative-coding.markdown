@@ -27,14 +27,22 @@ To complete this task, follow these steps:
 
 6. Use the provided code to create and checout a new banch.
 
-    ```
-    git fetch origin
-    git checkout 1-branch-name
-    ```
+   ```
+   git fetch origin
+   git checkout 1-branch-name
+   ```
 
-7. Use VSCode to make the required changes.
+   If running the above code causes an error, we need to add one more line to create the branch before we check it out:
 
-8. Commit your changes and push using the branch name:
+   ```
+   git fetch origin
+   git branch 1-branch-name
+   git checkout 1-branch-name
+   ```
+
+8. Use VSCode to make the required changes.
+
+9. Commit your changes and push using the branch name:
 
     ```
     git add .
@@ -42,9 +50,9 @@ To complete this task, follow these steps:
     git push origin 1-branch-name
     ```
 
-9. Create a **Pull Request**.
+10. Create a **Pull Request**.
 
-10. Your istructor will merge.
+11. Your istructor will merge.
 
 ## Submitting this Task
 
