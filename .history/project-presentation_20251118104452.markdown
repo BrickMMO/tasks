@@ -4,7 +4,7 @@
 
 For this assignment you will choose you will present your completed project to the class. Useless Web projects will present as individuals and BrickMMO projects will present with their groups.
 
-Include a short slide deck with four to five slides. Include contributors, technical barriers, interesting challenges, mockups screenshots, and a demo of your final working project. 
+Include a short slide deck with four to five slides. Include contributors, technical barriers, interesting challenges, mockups screenshots, and a demo of your final working projcet. 
 
 ## Steps
 
