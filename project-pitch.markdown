@@ -41,7 +41,7 @@ If done correctly this can make a great portfolio piece. I would recommend aimin
 
 ## Steps
 
-To complete thi-s task, follow these steps:
+To complete this task, follow these steps:
 
 1. Choose either a BrickMMO (groups) or Useless Website (individual) project.
 2. Brainstorm your idea.
