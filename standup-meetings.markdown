@@ -24,12 +24,12 @@ For example:
 
 ## Steps
 
-1. During each of the two stand up meetings provide the class with a status update and any other information you want to share.
-2. Document a short journal entry to track what you shared during the standup meeting. 
+1. During each of the two stand-up meetings provide the class with a status update and any other information you want to share.
+2. Document a short journal entry to track what you shared during the stand-up meeting. 
 
 ## Submitting this Task
 
-There are two assignments in Blackboard for **Stand Up #1** and **Stand Up #2**. After your in person stand up meeting submit a short paragraph like the one above to these tasks in [Blackboard](https://learn.humber.ca/).
+There are two assignments in Blackboard for **Stand Up #1** and **Stand Up #2**. After your in-person stand-up meeting submit a short paragraph like the one above to these tasks in [Blackboard](https://learn.humber.ca/).
 
 [&#10132; Back to Task List](/)
 
