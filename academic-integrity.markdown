@@ -23,7 +23,7 @@ To complete this task, follow these steps:
 
 ## Submitting this Task
 
-After you have completed the assessment with a garde of 90% or higher, your instructor will mark the task as comlete. 
+After you have completed the assessment with a garde of 90% or higher, your instructor will mark the task as complete. 
 
 [&#10132; Back to Task List](/)
 
